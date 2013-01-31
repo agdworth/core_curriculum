@@ -1,0 +1,235 @@
+Discipline - Imaging
+
+A. Clinical skills
+
+B. Global objectives
+
+C. Safety issues
+A. Clinical skills
+
+    Chest imaging topics - Thoracic cage, mediastinum, pulmonary vessels, lungs
+        Describe and recognise the differences between the PA, AP and erect and supine frontal views on a normal chest X-ray
+        Describe and recognise the radiographic appearance of the heart, mediastinum and lungs on the frontal and lateral views on a normal chest X-ray
+        Differentiate between a well performed good quality frontal x-ray of the chest and one of suboptimal quality. 
+        Describe the common clinical indications for X-Ray, CT, ultrasound, MRI, and lung V/Q scan of the chest as imaging modalities
+        Explain how High Resolution CT (HRCT) and CT Pulmonary Angiography (CTPA) differ from standard CT
+        Identify on Chest X-Ray the following core clinical conditions  
+            lung collaps
+            pneumonia
+            pulmonary oedema
+            pneumothorax
+            pneumomediastinum
+            pleural effusion
+            rib fracture
+            free gas under the diaphragm
+            a widened mediastinum (list the differential diagnosis)
+        Identify on chest X-ray the following normally and abnormally positioned lines and tubes:
+            endotracheal tube
+            nasogastric tube
+            central venous catheters
+            (d) intercostal tubes
+        Choose the appropriate imaging investigations and/or interventions for the following conditions and explain the rationale for your choice:
+            suspected lung cancer
+            suspected pulmonary embolism
+            suspected pneumothorax
+            suspected foreign body aspiration
+            suspected pneumonia
+            solitary pulmonary nodule found on CXR
+            suspected pleural effusion
+
+    Vascular imaging topics
+        Describe the different types of diagnostic information available from vascular imaging using ultrasound, CT and catheter angiography.
+        Interpret reports from Doppler ultrasound of great arteries of neck for:
+            normal arteries
+            arterial occlusion
+            varying degrees of stenosis
+        Describe the chest X-ray features that indicate possible aortic dissection or rupture in clinical presentations related to:
+            trauma  
+            non-trauma
+        Explain the clinical significance of the PIOPED (Prospective Investigation of Pulmonary Embolism Diagnosis) criteria of lung ventilation-perfusion reports
+        Identify features of abdominal aortic aneurysm on CT
+        Interpret reports of venous Doppler studies in the lower limb veins
+
+    Breast imaging topics (includes the breast and lymphatic drainage)
+        Describe the common clinical indications for mammography and for breast ultrasound
+        Describe how a mammogram is performed
+        Describe how a breast ultrasound is performed
+        Outline the key diagnostic information provided by each of these imaging modalities
+        State the target group for and outline recommended participation in the breast cancer screening program  in Australia
+        Describe the advantages and limitations of mammography in breast cancer screening
+        Describe the advantages and limitations of breast ultrasound in breast cancer screening
+        Choose the appropriate imaging investigation and/or intervention for the following clinical presentations and explain the rationale for your choice:
+            a young woman <30 years with a new breast lump
+            a woman >40 years  with a new breast lump
+            a 30 year old lactating woman with breast pain and inflammation
+
+    Musculoskeletal imaging topics (appendicular and axial skeleton)
+        Drawing on your knowledge of X-ray principles, explain the rationale for:
+            obtaining two perpendicular views for each bone/region
+            including the joint above and below a limb injury
+            taking special projections (e.g., scaphoid, radial neck)
+        Describe the different types of diagnostic information provided by X-Ray, CT, Ultrasound, MRI, Bone Scan, Gallium Scan
+        Describe the common clinical indications for each type of test
+        Explain the advantages and disadvantages of each test for trauma, infection and neoplasm
+        Identify the following core clinical conditions on X-Ray:
+            primary signs of fracture (cortical break, abnormal linear lucency or white line, altered bone shape)
+            secondary signs of fracture (angulation, displacement, soft tissue swelling, joint effusion)
+            lipohemarthrosis of the knee and elbow joints
+            normal alignment and contours of the cervical spine
+        Recognise on X-ray the following important injuries that commonly present to emergency departments   
+            cervical spine fracture or dislocation
+            scaphoid fracture
+            distal radius fracture (Colles, Smith)
+            radial neck fracture
+            distal humerus/elbow fracture
+            humeral neck fracture
+            shoulder dislocation
+            neck of femur fracture
+            tibial condylar fracture
+        Choose the appropriate imaging investigation and/or intervention for the following conditions and explain the rationale for your choice:
+            suspected Infection (Spine, Joint)
+            complex Skeletal Trauma  
+            radiographically Occult Fracture
+            joint Pain (Suspected Arthritis)
+            bone Pain (Suspected Bone Neoplasm)
+            back Pain
+
+    Gastrointestinal radiology topics
+        Describe the key diagnostic information provided by the following abdominal imaging modalities:
+            Abdominal X-ray,  
+            CT  
+            U/S
+        Develop a systematic approach to identifying the following features on an abdominal X-ray:
+            normal bowel gas pattern (small vs. large bowel)
+            abnormal calcifications
+            normal organs / soft tissue structures
+        Identify and correctly describe the abdominal X-ray findings for the following core clinical conditions:  
+            free intraperitoneal gas
+            small bowel obstruction
+            large bowel obstruction
+            ileus
+        Identify and correctly describe the Abdominal CT findings for:  
+            free intraperitoneal gas
+            free intraperitoneal fluid
+            abdominal Aortic Aneurysm
+        Choose the appropriate initial imaging investigation (e.g. AXR, U/S, CT) for the following clinical presentations and explain the rationale for your choice: 
+            right iliac fossa pain (20y.o male / female and 60y.o. male/ female)
+            right upper quadrant pain
+            left iliac fossa pain (20y.o. female vs. 60y.o. female)
+            colicky pain in   
+                right upper quadrant       
+                central abdominal
+            melaena / haematochezia
+            jaundice
+
+    Urogenital imaging topics
+        Describe the different diagnostic information provided by the following urogenital imaging modalities:
+            CT
+            plain X-ray
+            ultrasound
+            nuclear medicine – DMSA Renal Scan,  DTPA, MAG3 Renal Scan)
+        List and appropriately sequence  imaging investigations for the following clinical conditions:
+            haematuria
+            acute and chronic renal failure
+            renal colic
+            acute scrotal pain
+            pregnancy related pelvic pain  
+            suspected ectopic pregnancy
+        Identify:
+            radio-dense calculi on Abdominal X-ray
+            calculi on CT
+
+    Neuroimaging topics
+        Describe the different diagnostic information provided by the following neuroimaging modalities:
+            CT
+            MRI
+            angiography
+            nuclear medicine (PET and Cerebral Perfusion)
+        Identify the diagnostic CT features of the following core clinical conditions:
+            subarachnoid haemorrhage
+            subdural,  intracerebral and extradural haemorrhage
+            haemorrhagic and non-haemorrhagic stroke
+            signs of raised intracranial pressure
+            hydrocephalus
+            space occupying mass
+        Identify the key imaging features on brain MRI sequences of:
+            T1 weighting
+            T2 weighting
+            fluid attenuation inversion recovery (FLAIR)
+            diffusion imaging (DWI)
+             
+
+B. Global objectives
+
+    Explain which imaging tests should be used in specific clinical situations (listed in the Topic sections below)
+
+    Explain how imaging investigations are conducted, including patient preparation, explanation and safety
+
+    Describe the key principles of various imaging modalities
+
+    Explain how prior probability influences the likelihood of a test returning a positive or negative result
+
+    Describe key findings and relevant anatomy in the imaging for the key clinical conditions listed in each Topic section
+
+    Recall the normal anatomy of each area imaged and apply this knowledge to the interpretation of results
+
+     Understand the role of medical imaging in clinical investigation
+
+    Explain the importance of consultation and appropriate and cost-effective usage of imaging
+
+    Explain and discuss the key issues in patient safety associated with imaging
+
+    Describe the various forums for clinical consultation and discussion of medical imaging
+
+    Show an appropriate approach to basic interpretation of imaging findings in the key clinical conditions listed in each Topic section
+
+C. Safety issues
+
+    Patient safety topics
+        Enumerate typical normal background radiation levels in Australia
+        Enumerate typical radiation exposures for air travel
+        Enumerate the typical absorbed patient dose for the following common tests:
+            chest X-ray
+            CT Scan of the abdomen
+            mammogram
+            bone scan
+            PET-CT Scan 
+        Explain the application of the inverse square law for radiation exposure to staff
+        Describe the value and use of lead shielding for patients and staff
+        Discuss the risks of radiation exposure for:
+            6 year old child undergoing a CT of the abdomen
+            a pregnant woman (first trimester) from an abdominal x-ray
+            a 60 year old man undergoing PET-CT Scan for cancer evaluation
+            a person standing near a bone scan patient 4 hours after injection
+        Describe the risks of performing MRI in patients with:
+            a steel orthopaedic bone implant
+            a steel cerebral aneurysm clip
+            a cardiac pacemaker
+            a metallic foreign body in the eye
+        Describe the risks of inappropriate or inaccurate communication between referring and medical imaging staff, both before and after the imaging test for: 
+            critically ill patients
+            emergency department outpatients
+            elective inpatients
+            clinic outpatients
+
+    Imaging agent safety topics
+        Describe the differences in principle and use for the following imaging agents and the typical pathway for their elimination from the body:
+            Air
+            Barium
+            Iodine-based radiographic agents
+            Gadolinium-based MRI agents
+            Technetium-99m-DTPA
+            Fluorodeoxyglucose
+        Explain the basic principles and reasons for use of specific imaging agents for:
+            Fluoroscopic bowel procedures
+            CT scan of the abdomen
+            MRI of the brain
+            Intravenous pyelogram
+            Bone scan
+            FDG PET Scan
+        Discuss the risk factors for, and the complications of the administration of intravenous imaging agents in the following clinical scenarios  
+            Extravasation during bolus injection
+            Allergic reactions
+            Diabetic ketoacidosis
+            Contrast induced nephropathy
+            Nephrogenic systemic fibrosis

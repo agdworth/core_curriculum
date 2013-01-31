@@ -1,0 +1,187 @@
+Discipline - Cardiology
+
+A. Acute conditions
+
+B. Background knowledge
+
+C. Chronic conditions
+
+D. Clinical presentations
+
+E. Communication
+
+F. Drugs and therapies
+
+G. Emergencies
+
+H. Interventional procedures
+
+I. Investigations
+
+J. Physical examination
+
+K. Public health
+A. Acute conditions
+
+    For the following acute presentations and underpinning conditions:
+        cardiopulmonary arrest (including basic and advanced life support)
+        ST elevation myocardial infarction
+        non-ST elevation myocardial infarction
+        unstable angina pectoris
+        tachyarrhythmias (supraventricular and ventricular)
+        bradyarrhythmias
+        pulmonary embolus
+        aortic dissection
+        early presentation of cerebrovascular accident.
+        recognition and treatment of  acute heart failure
+        acute limb ischaemia
+        pericardial disease (inflammation and tamponade)
+        malignant hypertension
+        ruptured abdominal aortic aneurysm
+        Recognise the diagnostic features (from history, physical examination and interpret investigations such as CXR, ECG, electrolytes and cardiac enzyme testing
+        Describe the initial management and the degree of urgency required
+
+B. Background knowledge
+
+    Describe the main macroscopic and microscopic pathological changes of the following common cardiovascular diseases:
+        coronary atheroma
+        atheroma in other large and medium sized arteries
+        hypertensive vascular disease
+        hypertensive heart disease
+        myocardial ischaemia and infarction
+    Recall the anatomy and physiology of the healthy cardiovascular system and apply this knowledge to understanding the pathophysiology of cardiovascular disease
+
+C. Chronic conditions
+
+    For the following chronic conditions:
+        ischaemic heart disease/angina
+        systemic hypertension
+        heart failure (including systolic heart failure and heart failure with preserved systolic function)
+        atrial fibrillation including:
+            the principles and practice of cardioversion
+            issues of anticoagulation for atrial fibrillation
+        mitral valve disease
+        aortic valve disease
+        endocarditis
+        pulmonary hypertension
+        aneurysm of the abdominal aorta
+        peripheral vascular disease
+        deep venous thrombosis
+        chronic venous insufficiency (lower limbs)
+        Recognise the diagnostic features (from history, physical examination and investigation such as CXR and ECG)
+        Describe the principles of investigation and management, including cardiac rehabilitation and maintenance of quality of life in the community
+
+D. Clinical presentations
+
+    Take an accurate and informative history for the following presenting complaints:
+        chest pain - distinguish likely cardiac chest pain from aortic, respiratory, musculoskeletal, gastrointestinal and other causes
+        dyspnoea
+        palpitations
+        fatigue
+        syncope
+        ankle oedema
+        claudication
+
+E. Communication
+
+    Understand the reasons that patients may not adhere to lifestyle and cardiovascular treatment recommendations and communicate effectively to encourage compliance
+    Explain common cardiac conditions to patients and families using non-medical language
+    Clearly communicate relevant information about diagnostic and therapeutic procedures to patients and families
+    Clearly communicate relevant information about a patient’s cardiovascular status to other health care colleagues
+
+F. Drugs and therapies
+
+    For each of the classes of agents below, outline the indications for use, modes of action, common adverse effects and common drug interactions and dose range:
+        digitalis
+        diuretics including
+            loop diuretics (such as Frusemide)
+            thiazide diuretics
+            potassium sparing diuretics (such as Spironalactone)
+        antiplatelet agents
+            Aspirin and Clopidogrel
+        anticoagulation with Warfarin and low molecular weight heparin
+        beta-blockers
+        calcium channel blockers
+            dihydropyridines such as Nifedipine and Amlodipine
+            non-dihydrophyridines such as Verapamil and Diltiazem
+        angiotensin converting enzyme inhibitors
+        angiotensin II receptor blockers
+        nitrates
+            sublingual GTN
+            topical nitrates
+            oral nitrates
+        cholesterol lowering drugs
+            statins
+            fibrates
+    Check a reliable source before prescribing whenever uncertain of the appropriate dose
+
+G. Emergencies
+
+    Acute onset severe chest pain:
+    Describe the steps in the immediate assessment, management and preliminary investigation of acute severe chest pain, including the diagnostic features of the following conditions: ischaemic heart disease syndromes; pulmonary embolus; aortic dissection; gastrointestinal causes
+    Collapse with loss of circulation - differential diagnosis:
+    Describe and demonstrate the steps in the immediate assessment and management of collapse with loss of circulation including cardiopulmonary resuscitation for cardiac arrest
+
+H. Interventional procedures
+
+    Describe in simple terms the following interventions and their place in the treatment of cardiac conditions:
+        balloon angioplasty
+        coronary stenting with bare-metal stents and drug-eluting stents, including issues related to the management of antiplatelet therapy
+        coronary artery bypass grafting
+        valve replacement surgery
+        treatment of carotid artery disease including stenting and endarterectomy as well as medical therapy
+        endovascular grafting and open surgery in the treatment of abdominal aortic aneurysm
+        balloon angioplasty with or without stenting, bypass surgery and medical management in the treatment of peripheral arterial disease
+
+I. Investigations
+
+    Interpret cardiac enzyme results to identify features diagnostic of acute myocardial infarction
+
+    Interpret the chest x-ray to
+        identify signs of congestive heart failure
+        identify signs of aortic dissection
+        describe the additional diagnostic information obtained from performing a lateral CXR as well as a p/a and describe the limitations of a mobile CXR film
+
+    ECG
+        Perform a 12 lead ECG
+        Identify diagnostic features of the following conditions on ECG:
+            ischaemic heart disease
+            ST elevation myocardial infarction
+            non-ST elevation myocardial infarction
+            left bundle branch block
+            chamber enlargement/hypertrophy (LA, RA, LV, RV)
+            bradyarrhythmias - sinus bradycardia, first degree, second degree and third degree (complete heart block)
+            tachyarrythmias - ventricular fibrillation, ventricular tachycardia, atrial fibrillation, atrial flutter, and other common forms of supraventricular tachycardia
+
+    Outline the indications for the following cardiovascular investigations, and their role in patient assessment:
+        echocardiography - transthoracic and transoesophageal
+        exercise stress testing
+        ultrasound of the carotid arteries.
+        ultrasound of the abdominal aorta
+        ultrasound of the peripheral arterial system
+        cardiac catheterisation and coronary angiography
+        electrophysiological study of the heart
+
+J. Physical examination
+
+    Perform the following competently
+        measure blood pressure with correctly sized cuff
+        detect peripheral pulses, carotid bruits and clinically significant dilatation of the abdominal aorta
+        auscultate heart sounds, identify the common systolic and diastolic murmurs and provide a differential diagnosis for these
+        detect signs of heart failure such as raised JVP, lung crepitations, enlarged liver, ankle oedema
+        perform fundoscopy on undilated pupils for a/v nipping and papilloedema as key signs of hypertension
+        examine the cardiovascular system of infants and children
+
+K. Public health
+
+    Elicit a history of the major risk factors for atherosclerotic heart disease.
+    Elicit a history of the major causes of heart failure (hypertension, ischaemic heart disease, family history, alcohol, diabetes, thyroid disease, anaemia)
+
+    Explain the beneficial effects of the following lifestyle changes on cardiovascular health and demonstrate the ability to recommend them to patients
+        smoking avoidance, smoking cessation
+        heart healthy dietary advice, including alcohol consumption
+        salt avoidance
+        weight management
+        exercise
+    Differentiate between approaches to the primary and secondary prevention of cardiovascular disease
+    Understand the epidemiology of cardiovascular disease in different populations, (in the indigenous Australian population in particular)and the impact of risk factors on clinical presentation in these populations

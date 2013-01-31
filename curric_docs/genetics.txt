@@ -1,0 +1,54 @@
+Discipline - Genetics
+
+A. Global objectives
+
+    On graduation students should be able to:
+
+    Define the terms - genetics, epigenetics and genomics - and explain in broad terms  their relevance to clinical medicine
+
+    Understand basic cell biology (including the cell cycle, mitosis and meiosis)
+
+    Understand the structure of:
+        genes, including the structure of DNA and RNA, DNA replication and packaging of DNA
+        chromosomes, including variations in normal chromosomal structure such as translocations, complete and partial trisomy and monosomy (deletion)
+
+    Describe the function of genes, gene expression and regulation
+
+    Understand the nature and types of mutation and implications of those mutations for human variation and disease e.g. missense, nonsense and frameshift mutations
+
+    Describe the important patterns of inheritance
+        Mendelian (dominant, recessive, X-linked) and
+        mitochondrial
+
+    Describe sources of variability in gene expression in relation to imprinting, mosaicism, gene dosage effects, and single nucleotide polymorphisms
+
+    Recognise that some types of cancer can have a significant hereditary component, in particular bowel cancer and breast/ovarian cancer, and apply this to medical history taking
+
+    Describe the principles behind genetic disorders of metabolism using Phenylketonuria (PKU) as an example
+
+    Describe the teratogenic effects of infections, alcohol and some drugs and environmental genetic hazards and strategies for their prevention.
+
+    Describe the clinically important aspects of Pharmacogenetics using as an example the implications of variations in warfarin metabolism for prescribing
+
+    Recognise the significance of genetic variation in and between populations e.g. the different mutations in Cystic Fibrosis and Thalassaemia in different populations
+
+    Describe the principles behind newer therapeutic strategies in genetic medicine (e.g. gene therapy, stem cell transplantation, enzyme replacement therapy)
+
+    Identify and be able to discuss the scientific, ethical and legal issues relating to and/or arising from genetic testing in relation to:
+        Informed consent for genetic testing and issues with consent from minors
+        Pre-implantation diagnosis 
+        Prenatal diagnosis
+        Predictive/presymptomatic testing e.g. Huntington Disease
+        Carrier testing
+        Targeted group screening (e.g. cascade testing)
+        Population screening
+        Genetic tests: how to order them and their interpretation
+        Principles of medical law relating to privacy and right to know, confidentiality of test results and interventions which might result in termination of pregnancy
+
+    Demonstrate skills in family history taking and interpretation, that include drawing a family pedigree and calculating the risks of inheriting a Mendelian disorder
+
+    Communicate basic genetic concepts and risks to individuals and families
+
+    Recognise the increasing complexity and relevance of genetics to clinical medicine and know how and when to refer patients to genetic services, eg clinical genetics units including specialist management services, laboratory diagnostics and genetic counsellors
+
+    Recognise and understand the impact of a genetic diagnosis on individuals and their families; including the emotional and psychological effects in their particular social, religious, ethical and cultural settings 

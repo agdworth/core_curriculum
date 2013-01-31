@@ -1,0 +1,36 @@
+ Pathology tests
+
+Pathology tests
+Graduates will be able to provide clinical indications and interpretation of results for the following tests.
+
+    Arterial blood gases
+    B-type natriuretic peptide
+    Serum electrolytes
+    2 hour glucose tolerance test
+    Haemoglobin A1C
+    Urinary microalbumin
+    Serum creatinine
+    Estimated Glomerular Filtration Rate
+    Serum lipids and HDL cholesterol
+    Liver function tests (Bilirubin, ALP, AST, GGT, ALT, Albumin, Protein)
+    Hepatitis serology
+    Creatine Kinase
+    Serum amylase
+    Thyroid Function Tests (TSH, free T4, free T3)
+    Mg, Calcium, total, corrected and ionised
+    25-OH Vit D, PTH
+    Beta-HCG
+    Example of drug detection / monitoring eg cotinine
+    Example of sensitivity / monitoring eg tobramycin
+    Example of toxic drug level detection eg paracetamol
+    Full blood count: RBC indices, neutropoenia, neutrophyllia, thrombopoenia, thrombocytosis
+    Ferritin
+    Coag screen (INR, PTT)
+    d-dimer
+    EPG/IEPG
+    HIV
+    c-reactive protein
+    PSA
+    Faecal occult blood
+    Histopathology as a component of staging of melanoma, Ca lung, Ca cervix, Ca colon, Ca breast and Ca prostate
+    Bone marrow aspirate

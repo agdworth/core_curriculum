@@ -1,0 +1,248 @@
+Discipline - Endocrinology
+
+A. Background knowledge
+
+B. Clinical presentations
+
+C. Common and/or important conditions
+
+D. Emergencies
+
+E. Drugs and therapies
+
+F. Investigations
+A. Background knowledge
+
+    Recall the principle behind negative feedback hormonal circuits in normal endocrine function
+
+    Understand that the rationale for dynamic tests of endocrine function is to stimulate when hormone lack is suspected and to inhibit or block when hormone excess is suspected.
+
+    Be aware that a single gene mutation may lead to multiple endocrine neoplasia syndromes
+
+    For the following endocrine organs (thyroid, pituitary, adrenal glands, gonads, parathyroids and the endocrine pancreas):
+        Recall the functional anatomy
+        Describe the normal regulation, production and secretion of the hormones they produce.
+        Describe the mechanism of action of these hormones in regulating body metabolism and maintaining tissue homeostasis
+        Outline the principles of measuring normal, basal hormonal function with standard laboratory tests
+
+B. Clinical presentations
+
+    Formulate a reasonable provisional and differential diagnosis and initiate appropriate hormonal and related investigation in individual patients presenting with:
+        polyuria and polydipsia
+        recurrent fungal or bacterial skin infections
+        an acute foot ulcer with peripheral neuropathy
+        blurred vision bilaterally
+        persistent lethargy (when an underlying endocrine cause is suspected)
+        unexplained weight loss or gain
+        a goitre - whether diffuse or with focal nodule(s)
+        paroxysmal symptoms including palpitations, tremor and ‘feelings of doom’
+        minimal trauma fracture
+        galactorrhoea
+        growth delay
+        loss of libido (when an endocrine cause is suspected)
+        hirsutism in women
+        infertility
+        primary or secondary amenorrhoea
+        'facies' suggestive of acromegaly, Cushing's syndrome or Graves' ophthalmopathy
+        Incidental abnormalities on blood tests e.g. hyperglycaemia, hypercalcaemia, or elevated TSH
+
+C. Common and/or important conditions
+
+    Diabetes Mellitus:
+        Discuss the pathogenesis of type 1 and type 2 diabetes mellitus
+        State the plasma glucose levels (fasting and 2 hrs after a 75g oral glucose tolerance test) that are diagnostic for diabetes, impaired glucose tolerance, impaired fasting glycaemia and normal glucose tolerance
+        Interpret measurements of plasma glucose, fingerprick capillary blood glucose, glycosylated haemoglobin, and urine microalbumin
+        Describe the usual mode of presentation of patients with type 1 and type 2 diabetes including patient characteristics, genetic factors, symptoms and signs
+        Obtain a detailed history from a patient with diabetes mellitus, focussing on the course of the disease, blood glucose monitoring, blood pressure and lipids, and acute and chronic complications
+        List in detail the end organ complications of diabetes; categorise them as microvascular (retinopathy, nephropathy, neuropathy), macrovascular (cardio-, cerebro- or peripheral- vascular), mixed or ‘other’ cause (eg diabetic foot disease); and perform appropriate examination to detect these
+        Explain why it is important to screen regularly for complications of diabetes and describe the current methods for screening for and treating diabetic ocular, renal and foot disease
+        Explain the concept of good glycaemic control and state treatment targets for blood glucose control, lipids and blood pressure to minimise complications of hyperglycaemia
+        Explain the principles of diet, lifestyle modification and exercise in the prevention and/or management of type 1 and type 2 diabetes
+        Understand the types of diabetes that occur in pregnancy and the diagnosis and management of gestational diabetes
+        Understand that the link between diabetes and depression may adversely affect compliance with treatment
+        Describe how diabetes (symptoms, complications, treatment) may adversely affect the ability of some patients to drive safely
+        Describe the epidemiology of diabetes in indigenous Australians
+        Discuss the various challenges of diabetes in indigenous communities, non-English speaking patients, the young and the elderly and the challenges of transitioning from paediatric to adult health care
+        Explain the importance of a multidisciplinary team approach to the management of patients with diabetes and the roles of individual members.
+        Know the differences between insulins including timing of onset, duration of action and timing with meals, and the importance of not omitting insulin therapy in patients with type 1 diabetes.
+
+    Obesity
+        Outline the principles of healthy nutrition across the lifespan and describe options in the approach to physical activity as an aid to maintaining human health
+        Summarise the potential public health and personal health consequences of the ‘obesity epidemic’, including the development of diabetes and cardiovascular disease and other chronic disease such as osteoarthritis, cholelithiasis and exacerbation of asthma and malignancy.
+        Describe the relevance of body mass index and waist circumference to the risk of developing chronic diseases, and categorise the severity of overweight or obesity in individual patients
+        Describe the options in approach to weight reduction in obese patients including diet, physical activity and surgical options
+        Differentiate in a patient primary/simple overweight/obesity from defined secondary hormonal causes
+        Describe the diagnostic features of the ‘metabolic syndrome’, the potential health consequences, and management strategies.
+        Be aware of the role of surgery in treating severe forms of obesity (e.g. gastric banding, gastric sleeve resection and gastro-intestinal bypass) and that the underlying rationale for weight loss is either restrictive or malabsorptive
+
+    Osteoporosis
+        Define and differentiate osteoporosis and osteopaenia in specific terms
+        Describe the epidemiology of osteoporosis in an ageing population and the environmental, hormonal, medicinal and lifestyle factors that may contribute to the problem
+        Elicit a history in a patient with osteoporosis including possible causes and consequences
+        Exclude secondary causes of and contributors to osteoporosis, including hormonal causes such as vitamin D deficiency, hyperparathyroidism, hypogonadism, Cushing’s syndrome or hyperthyroidism, as well as myeloma, coeliac disease and other gastrointestinal disease
+        Examine the spine for kyphosis, focal bony tenderness, as well as patient height, balance and gait for risk of falls
+        Understand the role of bone mineral densitometry (BMD) DEXA scans and plain X rays in assessing bone density and know how to interpret the results
+        Understand the principles of management in osteoporosis including exercise, calcium and vitamin D therapy and drug therapy and the potential side effects
+
+    Cushing's Syndrome
+        Recognise the facies and body habitus of a patient with glucocorticoid excess (Cushing's syndrome), and elicit other symptoms and signs
+        Recall the roles of urinary free cortisol and dexamethasone suppression test in screening for Cushing's syndrome and explain to the patient what is involved
+        List the different causes of Cushing's syndrome based on whether they are ACTH-independent or ACTH-dependent, including Cushing’s disease
+        List the potential tissue complications of Cushing’s syndrome
+        List and explain the rationale for the main investigations undertaken to differentiate Cushing's disease from other causes of Cushing's syndrome
+        Describe the principles of treatment of corticosteroid excess according to the cause of the Cushing's syndrome
+
+    Acromegaly
+        Describe the symptoms and signs of growth hormone excess in children and in adults
+        List the tissue complications that may be caused by acromegaly and their mechanisms, such as hypertension, diabetes mellitus, sleep apnoea, colonic disease and osteoarthritis
+        Explain why an IGF-I determination rather than a growth hormone blood level is the appropriate screening test for acromegaly
+        Describe the main therapeutic options in acromegaly
+
+    Adrenal insufficiency
+        Describe the symptoms and signs of glucocorticoid deficiency in the acute and chronic setting
+        List the common causes of primary and secondary adrenal insufficiency including secondary adrenal insufficiency due to chronic exogenous glucocorticoid excess
+        Institute emergency management in cases of suspected acute adrenal insufficiency
+        List the main hormonal studies including stimulation tests to screen for Addison’s disease
+        List the most common causes of Addison’s disease
+        Describe the approach to replacement of gluco-corticoid and mineralocorticoid including during times of increased physiological stress (eg illness or surgery), and the potential side effects from exogenous corticosteroid use
+        Explain to a patient with Addison’s disease the rationale for increasing doses of gluco-corticoid in times of stress
+
+    Phaeochromocytoma
+        Describe the classic clinical presentation of phaeochromocytoma and explain the underlying pathophysiology
+        Understands how to screen for screen patients for phaeochromocytoma using measurements of urinary catecholamines
+        Explain why it is critical to achieve alpha blockade prior to surgical resection of a phaeochromocytoma
+
+    Non-secreting adrenal masses
+        Describe the approach to investigating an incidentally discovered adrenal mass at imaging (termed an ‘adrenal incidentaloma’) for excess hormonal secretion
+        Discuss options in management for a non hormonally-secreting adrenal mass
+
+    Pan-hypopituitarism
+        Describe the signs and symptoms of pan-hypopituitarism including characteristic eye signs (bitemporal hemianopia) due to compressive tumours.
+        List the main causes of pituitary hypofunction
+        Discuss the concept of non-functioning and functioning pituitary tumours and the clinical relevance in differentiating pituitary macro- from micro-adenomas
+        Describe the treatment of pituitary hypofunction
+        Interpret pituitary function tests with an understanding that the related end organ hormones require simultaneous assessment in cases of pituitary hypofunction.
+        Understand the presentation and biochemical diagnosis of posterior pituitary dysfunction and the management of diabetes insipidus
+        Include the syndrome of inappropriate anti-diuretic hormone release (SIADH) in the systematic assessment of patients with hyponatraemia and describe the management of SIADH
+        Assess patterns of lack of growth including centile charts in children and adolescence and for hormonal causes including pituitary hypofunction
+
+    Hyperprolactinaemia
+        Describe the consequences of hyperprolactinaemia, including galactorrhoea and features of hypogonadism
+        List the main physiological and pathological causes of galactorrhoea
+        List the main causes of hyperprolactinaemia (eg physiological or pathological due to pituitary tumour, medications, primary hypothyroidism) and broadly outline options in their management
+
+    Hypercalcaemic disorders
+        Know how to calculate the corrected serum calcium level
+        List the main causes of hypercalcaemia
+        Investigate the cause of hypercalcaemia based on whether it is PTH-dependent or PTH-independent
+
+    Hypocalcaemia and Vitamic D
+        Recognise the clinical presentation of symptomatic hypocalcaemia
+        List causes of hypocalcaemia, including vitamin D deficiency
+        List reasons for the rising prevalence of vitamin D deficiency
+        Describe the consequences of vitamin D deficiency including osteoporosis
+
+    Hirsutism in females and Polycystic Ovarian Syndrome
+        Identify hirsutism (i.e. androgen dependent hair growth) and differentiate it from hypertrichosis
+        List potential causes of hirsutism, including benign/simple hirsutism, polycystic ovarian syndrome (PCOS) or an adrenal cause of excess androgen including malignancy
+        Understand the significance of virilisation (eg male pattern balding, voice deepening, clitoromegaly) in a patient with hirsutism
+        List treatment options for hirsutism including local or systemic (eg anti-androgen therapy)
+        List the key clinical features and investigations that lead to a diagnosis of PCOS
+        Understands the link of insulin resistance leading to hyperandrogenism and ovulatory dysfunction in PCOS
+        List the associated metabolic, androgen and fertility complications of PCOS
+        Discuss options in therapy for PCOS including lifestyle intervention, and medication targeting end-organ effects
+
+    Reduced libido and hypogonadism
+        Consider endocrine causes including hypogonadism in the differential diagnosis of patients presenting with reduced libido
+        Elicit the symptoms and signs of hypogonadism in males and females
+        Know how to differentiate primary versus secondary gonadal hypofunction on the basis of hormonal tests
+        Explain the principles of sex hormone replacement therapy for males and females and the risks and benefits for each
+
+    Thyroid Disease
+        Hypothyroidism
+            Describe the clinical feature of hypothyroidism, elicit an appropriate history and examine for signs
+            Explain the nature of the involvement of other organ systems that can occur in patients with severe hypothyroidism, including cardiovascular and nervous systems
+            Differentiate between primary and secondary hypothyroidism using hormonal blood test profiles
+            List the main causes of primary hypothyroidism
+            Describe the investigations you would request to differentiate hypothyroidism due to autoimmune thyroid disease from other causes.
+            Outline the principles of thyroid hormone replacement therapy
+        Hyperthyroidism
+            Elicit a relevant history and examine for signs of hyperthyroidism,
+            Request and interpret thyroid hormone blood tests to diagnose hyperthyroidism.
+            Describe the findings on history and physical examination, and the role of antibody tests and technetium thyroid uptake scan in differentiating between Graves’ disease and other causes of hyperthyroidism such as multinodular goitre and thyroiditis.
+            Explain the role and mechanism of action of anti-thyroid drugs, radioactive iodine therapy and thyroid surgery in treating hyperthyroidism.
+        Goitre for investigation
+            Determine the likelihood of any neck obstruction or thyroid hormone disturbance in patients with goitre from history and examination of the thyroid and other relevant systems.
+            Examine the goitre, recognise any nodularity and any associated neck lymphadenopathy or tracheal deviation
+            Discuss the role and nature of investigations for thyroid nodules
+            Describe common modes of presentation of thyroid cancer
+            List the main histopathological types of thyroid cancer and describe their typical clinical course
+
+D. Emergencies
+
+    Discuss the principles of management of the hyperglycaemic diabetes emergencies of diabetic ketoacidosis (DKA) and non-ketotic hyperosmolar coma (HONC) including resuscitation with fluid replacement and insulin therapy, and achieving acid-base and electrolyte balance
+
+    Describe the immediate and ongoing treatment of a patient with severe hypoglycaemia
+
+    Recognise the dangerous consequences of acute gluco-corticoid insufficiency and describe both the immediate treatment of a patient with this presentation, and its subsequent prevention
+
+    Recognise the clinical features of severe hyperthyroidism and severe hypothyroidism and describe the initial management of each presentation
+
+    Recognise the clinical features of an emergency presentation of phaeochromocytoma and explain the role of early aggressive treatment especially of blood pressure in this clinical scenario
+
+    Describe the presentation of pituitary apoplexy and priorities in its management
+
+    Institute management in hypercalcaemic crisis and explain the reason for the therapies chosen
+
+    Recognise the dangers and consequences of rapid correction of hypo- or hyper-natraemia.
+
+E. Drugs and therapies
+
+    Exhibit a working knowledge of the drugs and combinations as well as the main side effects, for those commonly prescribed to treat hyperglycaemia in forms of diabetes mellitus, including:
+        insulin sensitisers (metformin, thiazolidenediones)
+        insulin secretagogues (sulphonylureas)
+        the gliptins (DDP4 inhibitors)
+        inhibitors of glucose absorption (acarbose),
+        different forms of rapid- and long-acting insulin including analogues and common regimens
+
+    Discuss the general approach to replacement of hormones using the following therapies:
+        glucocorticoid (cortisone acetate; hydrocortisone; prednis[ol]one; dexamethasone)
+        mineralocorticoid (fludrocortisone)
+        thyroxine
+        sex hormones (testosterone methods of administration, estrogen and progestagen)
+        (growth hormone
+        DDAVP (synthetic vasopressin or anti-diuretic hormone) for central diabetes insipidus
+
+    Exhibit a working knowledge of the main drugs and indications used to inhibit hormonal excess in the following diseases:
+        thionamides (carbimazole and propylthiouracil) in thyrotoxicosis
+        long acting somatostatin analogues for acromegaly
+        Dopamine agonists (bromocriptine, cabergoline) especially for galactorrhoea
+
+    Discuss the appropriate time course for up or down-titration of hormonal regulating therapies in diabetes, thyroid disease, pituitary disease, and osteoporosis.
+
+F. Investigations
+
+    Discuss the role of blood antibody testing mainly in diagnosis for suspected types of autioimmune endocrine disease:
+        thyroid disease: thyroid antibodies of anti-thyroid peroxidise (TPO) also known as anti-microsomal, anti-thyroglobulin in suspected thyroiditis; and thyrotropin receptor antibody (TRAb) and thyroid stimulating immunoglobulin (TSI) in suspected Graves’ disease;
+        pancreatic endocrine antibodies to sub-classify diabetes mellitus as type 1 (autoimmune mediated): GAD and IA2 antibodies.
+
+    Perform capillary blood glucose testing with a glucose meter and interpret the result
+
+    Perform and interpret urine testing for albuminuria (the urinary albumin:creatinine ratio) in patients with diabetes mellitus
+
+    Understand the importance of undertaking hormonal investigations as a first step in endocrinology before organ imaging
+
+    Interpret patterns of laboratory hormonal tests for thyroid, adrenal, pituitary, gonads and the endocrine pancreas in the basal (resting, unstimulated) state
+
+    Know and explain which main dynamic hormonal tests as blocking/inhibitory studies are appropriate in cases of suspected hormonal excess, for example the dexamethasone suppression tests for Cushing’s syndrome screening and then diagnosis
+
+    Discuss which organ imaging is appropriate to investigate endocrine disease including studies of structure (ultrasound, MRI, CT scan) and function: MIBG scan (for phaeochromocytoma), technetium labelled thyroid uptake scan in cases of hyperthyroidism, sestaMIBI parathyroid scan in primary hyperparathyroidism
+
+    Compare and contrast the indications and contraindications of thyroid fine needle aspiration biopsy, and the role of ultrasound guidance in the biopsy process
+
+    Explain the procedure of thyroid biopsy to a patient, including the potential risks and possible results
+
+    Know and explain which main dynamic hormonal tests as stimulating studies are appropriate in cases of suspected hormonal deficiency:
+        pituitary stimulation testing - insulin induced hypoglycaemia (IIH) testing
+        synACTHen tests for adrenal cortical hypofunction
+        water deprivation tests in cases of suspected diabetes insipidus

@@ -1,0 +1,85 @@
+Discipline - Immunology
+
+A. Clinical diagnosis
+
+B. Communication
+
+C. Investigations
+
+D. Management
+A. Clinical diagnosis
+
+    Elicit the symptoms & signs of:
+        systemic autoimmune diseases
+               SLE, Sjogren’s syndrome, scleroderma, polymyositis
+        organ specific autoimmune diseases
+               thyrogastric cluster, liver disease
+        vasculitis
+               giant cell arteritis
+               hypersensitivity vasculitis
+               ANCA positive vasculitis
+        allergic diseases
+            respiratory: asthma, allergic rhinitis
+            atopic eczema
+             urticaria, angioedema, anaphylaxis
+             food allergy and intolerance
+            gastrointestinal, e.g. eosinophilic oesophagitis
+               drug reactions
+        immune deficiency diseases
+               acquired, e.g. , e.g. HIV/AIDS including sero-conversion illness and complicating opportunistic infections Principles of primary immunodeficiencies
+               common adult immunodeficiencies (Common Variable Immunodeficiency, IgA deficiency)
+
+    Recognise the following emergencies
+    a. anaphylaxis & acute allergic reactions
+    b. giant cell arteritis
+
+    Understand:
+        the fundamental importance of skilful history taking and competent physical examination.  
+        the multisystem nature of autoimmune, allergic & immunodeficiency diseases.
+        recognise situations where immune function may be affected (reduced/compromised or altered), e.g. malnutrition, diabetes, therapeutic and recreational drug use, HIV infections, family history of disease, consanguinity 
+
+B. Communication
+
+    Communicate to patients the risks and benefits of immunosuppression, IV immunoglobulin replacement and immunotherapy
+
+    Provide counseling for specific issues in relation to HIV infection, including sexual behaviour and needle and syringe hygiene
+
+    Describe the role of and ethical approach to serological testing of people at high risk of HIV infection in the prevention and control of HIV/AIDS
+
+C. Investigations
+
+    Appropriately request and interpret investigations for:
+        normal & reduced immune function
+            immunoglobulin levels
+            EPG, immunofixation for monoclonal bands
+            testing for HIV infection
+            response to immunization
+            peripheral blood T & B cells enumeration by flow cytometry
+        autoimmune assessment
+            acute inflammatory markers
+            autoantibodies in systemic autoimmune diseases (eg ANA, ENA, dsDNA, ANCA, Rheumatoid factor) and complement levels
+            autoantibodies in organ-specific autoimmune diseases (eg Pernicious anaemia, Liver disease, Coeliac disease)
+            recognizing B cell hyperactivity 
+        allergy assessment
+            importance of history
+            skin prick testing
+             specific IgE (RAST)
+             total IgE
+            patch testing
+            intradermal testing
+             provocation testing (e.g. food allergens, inhalant allergens, drugs)
+            testing of lung function, bronchial hyperreactivity, airway inflammation
+            dietary elimination and challenge testing
+
+D. Management
+
+    Understand the therapeutic options for
+        systemic autoimmune diseases
+            use and side-effects of  corticosteroids, immunosuppressive agents and biological immune modulators, and prevention of their complications
+        immunodeficiency diseases
+            intravenous immunoglobulin
+        HIV/AIDS, including use of anti-retroviral therapy and prophylactic therapy against opportunistic infections
+        allergic diseases
+            avoidance, pharmacotherapy, immunotherapy
+
+    Initiate treatment for immunological emergencies, e.g. anaphylaxis, giant cell arteritis 

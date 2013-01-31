@@ -1,0 +1,132 @@
+Discipline - Pharmacology
+
+A. Applied clinical knowledge and skills
+
+B. Core skills
+
+C. Personal and Professional Development (PPD)
+A. Applied clinical knowledge and skills
+
+    Basic pharmacology
+        general mechanisms of action of drugs at a molecular, cellular, tissue and organ level & how these actions produce therapeutic and adverse effects
+        receptor as a target of drug action and related concepts such as agonism, antagonism, partial agonism and selectivity
+        development of tolerance or resistance to drugs
+
+    Clinical pharmacokinetics
+        mechanisms of drug absorption, distribution, metabolism and excretion
+        concepts of volume of distribution, clearance and half-life &how these factors determine the optimal route, formulation, dose, frequency and duration of drug administration
+
+    Factors that determine inter-individual variation in drug response
+        adherence to therapy, variation in pharmacodynamics, pharmacokinetics & pharmacogenetics
+
+    Monitoring drug therapy
+        ways in which this can be achieved (e.g. measuring plasma drug concentrations or assessing pharmacodynamic responses)
+        variable relationship between drug dose, plasma concentration and clinical effect
+
+    Adverse drug reactions (ADRs)
+        different types of ADRs & frequency of ADRs in primary and secondary care
+        common susceptibility factors and how risks of harms can be minimised
+        importance of reporting ADRs and other approaches to pharmacovigilance
+
+    Drug–drug interactions
+        potential for drugs to interact to cause beneficial OR harmful effects
+        mechanisms by which drugs interact (pharmaceutical, pharmacokinetic, pharmacodynamic)
+
+    Medication errors
+        different types of medication errors & common reasons for medication errors
+        ways in which individual prescribers can reduce the risk of medication errors
+
+    Clinical drug toxicology
+        assessment, recognition and treatment of common poisonings (e.g. paracetamol)
+        understanding of common toxidromes: sympathomimetic, cholinergic, anti-cholinergic, opiate, serotonergic, neurileptic
+        principles of decontamination: preventing or counteracting the effects of toxic substances after ingestion
+        understanding of substance abuse and drug overdose in a psychosocial context
+
+    Prescribing for special patient groups with altered physiology, pharmacokinetic handling and pharmacodynamic responses
+        extremes of age (older adults OR children)
+        women who are pregnant, breast-feeding or of child-bearing potential
+        patients with renal or liver disease
+
+    Legal aspects of prescribing drugs
+        categorisation of drugs as over the counter preparations, prescription-only medicines, controlled drugs
+        prescribing of 'unregistered' preparations
+        responsibilities associated with prescribing controlled drugs
+
+    Managing the prescribing of medicines in the health service
+        role of local formularies & role of drug and therapeutics committees
+        influences that affect individual prescribing choices
+        rational assessment of new drugs based on safety, efficacy and cost-effectiveness
+
+    Ethics of prescribing
+        informed patient consent and adherence to therapy
+
+    Commonly used drugs
+        the mechanism of action, the indications for use, the appropriate route, frequency and duration of administration, and the important contra-indications and adverse effects of commonly used drugs
+
+    Alternative therapies
+        motivations that lead patients to seek alternative therapies
+        some common indications and appraisal of the evidence for their efficacy and safety
+        how such therapies interact with prescription drugs that patients are receiving
+
+    Drug information retrieval
+        Retrieval of drug information for prescribers and other healthcare staff
+        Acquisition of knowledge and practice in how to assess the value and reliability of drug information sources
+
+B. Core skills
+
+    Taking a drug history
+        taking accurate information about current prescription, non-prescription drugs and complementary medicines
+        making an assessment of adherence to a medication regimen
+        recording current and past ADRs and allergies
+
+    Prescription writing
+        compare and contrast therapeutic options for an individual patient including pharmacological and non-pharmacological options
+        choosing a safe and effective drug and an appropriate dose
+        prescribing medications under generic and trade names appropriately
+        writing accurate, legible and legal prescriptions including controlled drugs
+        calculation of drug doses based on patient age, weight, renal function, or a nomogram
+        calculation of the strength of an infusion based on the required rate of drug administration
+        monitor the effects of drug therapy through drug concentrations, pharmacodynamic responses and/or clinical outcomes, to decide whether to continue, change or cease medicines
+
+    Adverse drug reactions and interactions
+        assessing drugs as a possible cause of symptoms and signs
+        recognising the potential for adverse interactions
+        reporting adverse drug reactions
+
+    Analysing new evidence
+        assessing the validity of evidence presented on new drugs or therapies
+        reading, assessing and criticising clinical studies
+        spotting methodological flaws including sources of bias
+        recognising the difference between clinical and surrogate end-points
+
+    Obtaining accurate objective information to support safe and effective prescribing
+        using local and national formularies
+        accessing reliable drug information from medical journals and medical databases
+        accessing Poisons Information Services
+        assessing the reliability of varying sources of evidence and opinion
+        estimating the benefit and risk of medicines for an individual patient from the evidence, then comparing with observed therapeutic and toxic effects
+
+    Obtaining informed consent to treatment
+        providing patients and/or their carers with enough information about drugs to allow them to make informed decisions about their treatment
+        discussing benefits and harms of drug therapy with the patients and/or carers
+        exploring patients' own individual, social and cultural views and wishes in relation to drug treatment
+
+    Core attitudes
+    A rational approach to prescribing and therapeutics
+        identifying the correct clinical diagnosis & pathophysiology involved
+        knowing the drugs that might beneficially influence these processes acutely and in the longer term
+        awareness of the limitations of available therapies
+        establishing the end-points with which to monitor therapeutic response
+        assessing the potential harms and benefits of treatment
+        appreciation of the support available when therapeutic/prescribing problems beyond one’s own knowledge and skills are encountered
+        communicating with the patient and/or carer in making the decision to treat
+        make clinical decisions based on scientific methods and standards, rather than personal or religious beliefs or financial or other commercial interests
+
+C. Personal and Professional Development (PPD)
+
+    Recognising the responsibilities of a doctor as part of the prescribing community
+        avoidance of wasteful prescribing and consumption of limited resources
+        controlling the availability of restricted drugs
+        adhering to therapeutic guidelines and drug formularies as appropriate
+        avoidance of indiscriminate prescribing of antibiotics
+        appreciate the benefits of a multidisciplinary approach to therapeutics and particularly to medication safety

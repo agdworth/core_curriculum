@@ -1,0 +1,246 @@
+Discipline - Pathology
+
+A. Role of pathology in health care delivery
+
+B. Background knowledge
+
+C. Procedural skills
+
+D. Pathology of immunology and infectious diseases
+
+E. Pathology of cancer
+
+F. Pathology of haematology
+
+G. Environmental determinants of disease
+
+H. Genetics
+
+I. Paediatric
+
+J. Communication
+A. Role of pathology in health care delivery
+
+    By understanding the role of pathology in health care delivery graduates will Appreciate the specialist practice of pathology and its vital role in diagnosis
+
+    Be aware of the skills and information requirements of laboratory staff
+
+    Know the legal responsibilities associated with the ordering of tests and the practice of pathology
+
+    Order and use diagnostic laboratory tests rationally
+
+    Select tests appropriately, based on the need to acquire information for a medical decision
+
+    Understand the need to provide appropriate clinical information for all tests
+
+    Be aware of the cost and limitations of laboratory investigations and other tests
+
+    Be aware of the role of special investigations such as electron microscopy, cytogenetics, flow cytometry, immune-histochemistry, PCR and other molecular techniques.
+
+    Be aware of the main issues concerning collection, transportation, handling, processing, reporting and interpretation of common diagnostic specimens by a pathology laboratory
+
+    State the clinical indications and interpretation of results for the tests listed in Appendix A.
+
+    Recognise the limitations of their own knowledge or understanding and seek further information from an appropriate pathologist, when required.
+
+B. Background knowledge
+
+    Recognise, describe and explain fundamental pathological processes using relevant terminology
+
+    Contrast the ways in which these processes differ from normal human structure and function
+
+    Describe the ways that cells respond to:
+        ischaemia
+        hypoxia
+        oxidative stress
+        physical injury
+        chemical toxicity
+        aging
+
+    State which cellular responses are reversible and understand the implications for organ function and consequent recovery, adaptation or deterioration of the patient
+
+C. Procedural skills
+
+    Use a light microscope to recognise and describe the microscopic appearance of:
+        atrophy
+        hypertrophy
+        metaplasia
+        hyperplasia
+        apoptosis
+
+    Recognise and report the microscopic cellular and immune features of the inflammatory response
+
+    Recognise the microscopic and laboratory features associated with:
+        glomerulonephritis
+        hepatitis
+        arthritis
+        inflammatory bowel disease
+        pancreatitis
+        cholecystitis
+        oesophagitis
+        gastritis
+        thyroiditis
+        myocarditis
+        pericarditis
+        pleurisy
+        adult respiratory distress syndrome
+        interstitial lung disease
+        vasculitis
+        atherosclerosis
+
+D. Pathology of immunology and infectious diseases
+
+    Differentiate the roles of chemokines, cytokines, growth factors, granulocytes, B-cells, T-cells, and macrophages
+
+    Recognise aspects of tissue repair such as cell division and stages of the cell cycle, cell differentiation, matrix formation, angiogenesis, fibrosis and remodelling as illustrated by:
+        healing by primary and secondary intent
+        intimal hyperplasia
+        1st, 2nd and 3rd degree burns
+        stricture formation
+        and hepatic regeneration.
+
+    Describe the roles of the following in disease processes:
+        dendritic cells
+        T and B lymphocytes
+        macrophages
+        immunoglobulins
+        cytokines and interleukins
+
+    Assess by appropriate investigations the immune component of:
+        asthma
+        atopy
+        eczema
+        graft versus host disease
+        amyloid
+        scleroderma
+        systemic lupus erythematosis
+        rheumatoid arthritis
+        Sjorgren’s Syndrome
+        thyrogastric cluster
+        autoimmune haemolysis
+        hypersensitivity reactions types I-IV
+        HIV and other immunodeficiencies
+
+    Adopt measures to avoid the transmission of infectious agents and the development of antibiotic resistance
+    Advise individuals about standard vaccination procedures and promote their use
+    Consider infections a causes of disease routinely
+    State the infectious agents that are most likely to be responsible for each of the following:
+        acute pneumonia
+        lung abscess
+        subacute bacterial endocarditis
+        hepatitis
+        meningitis
+        encephalitis
+        brain abscess
+        pelvic inflammatory disease
+        sexually transmitted infections
+        urinary tract infection
+        malaria
+        tuberculosis
+
+    Skills in Infectious Diseases:
+        Collect samples for culture or serology using the correct methods
+        Describe the culture conditions required for common pathogens, and the methods for determining antibiotic sensitivity
+        Prescribe appropriate initial antibiotic therapy as listed in the core curriculum for Immunology and Infectious Diseases
+        Recognise the microscopic appearance of bacterial and fungal microorganisms as well as the patterns of inflammation and injury that they cause
+
+E. Pathology of cancer
+
+    Identify the following macroscopic and microscopic features of neoplasia:
+        growth
+        de-differentiation
+        invasion
+        metastasis
+        cachexia
+
+    Understand the concepts of the grading and staging of cancers
+
+    Interpret standardised reporting of tumours
+
+    Name appropriate tumour markers to monitor for the recurrence of tumours
+
+    Relate neoplasia to paraneoplastic phenomena and underlying defects in:
+        oncogenes
+        suppressor genes
+        DNA repair
+        telomerase activity
+        karyotypic changes
+        cell signalling,
+        hormone responsiveness
+        immunosuppression
+         
+
+    Apply these principles to:
+        Solid tumours of:
+            lung
+            ovary
+            uterus
+            cervix
+            breast
+            kidney
+            stomach
+            gall bladder
+            oesophagus
+            brain
+            prostate
+            testis
+            thyroid
+            osteosarcoma
+        Multifocal malignancies such as multiple myeloma, lymphoma, melanoma, acute and chronic leukaemia.
+
+    List the major risk factors for common malignancies
+
+    Recognise that neuroblastoma, Wilm’s tumour and Ewing’s sarcoma are additional sources of malignancy in childhood
+
+F. Pathology of haematology
+
+    Assess circulation in terms of oxygen carrying capacity (haemoglobin), haemostasis, thrombosis, embolism, disseminated intravascular coagulopathy, infarction and the need for transfusion.
+    Recognise the impact on the perfusion of critical organs of conditions such as haemorrhage (eg haematemesis), shock (eg septic), pulmonary embolism, myocardial infarction and cerebral malarias
+    Describe in detail the compensatory responses to maintain perfusion under the above conditions
+
+G. Environmental determinants of disease
+
+    Recognise the somatic and laboratory features of:
+        Overnutrition - Obesity, sleep apnoea and type 2 diabetes
+        Under-nutrition - anaemia, protein-energy deficiency and eating disorders
+
+    Seek historical and laboratory evidence of occupational or incidental exposure to:
+        Carcinogens such as asbestos, analine, tobacco smoke and radiation
+        Toxins such as therapeutic and recreational drugs, industrial and agricultural hazards, tobacco smoke and alcohol.
+
+H. Genetics
+
+    Be aware of the components of local screening programmes for inborn errors of metabolism
+    Consider family history from the perspective of genetic principles including:
+        Mendelian patterns of inheritance
+        karyotype (features of Downs Syndrome and XY chromosomal abnormalities)
+        genotype
+        linkage
+        epigenetic phenomena
+
+    Recognise the following examples of mutations of genes coding for enzymes, receptors and structural elements:
+        Niemann Pick
+        Familial Hypercholesterolaemia
+        Marfan’s Syndrome
+
+I. Paediatric
+
+    Understand the diagnostic evaluation of intra-uterine development
+
+    Describe the anatomical pathology of prevalent congenital malformations such as spina bifida and coarctation of the aorta
+
+    Describe the pathophysiology of respiratory distress syndrome and haemolytic disorder of newborns guides in relation to the management of these major neonatal complications
+
+J. Communication
+
+    Recognise, interpret and describe the microscopic and macroscopic morphology of pathological mechanisms
+
+    Explain the clinical manifestations of disease and results of investigations in terms of the possible underlying pathology
+
+    Communicate information regarding disease to professional colleagues, laboratory staff, patients and members of the public using appropriate terminology
+
+    Describe the procedure for an autopsy and be able to explain this to the next of kin for the purpose of gaining consent to perform a non-coronial post-mortem examination
+
+    Complete a death certificate and refer appropriate cases to the coroner
+
+    Consider molecular causes of death when post mortem is uninformative, such as following sudden infant death syndrome

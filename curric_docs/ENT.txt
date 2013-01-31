@@ -1,0 +1,199 @@
+Discipline - Ear, Nose & Throat
+
+A. Background knowledge
+
+B. Ear disease
+
+C. Disease of the nose and paranasal sinuses
+
+D. Throat, head and neck
+A. Background knowledge
+
+    Write an inpatient consultation request and an outpatient referral to an otolaryngologist explaining the reasons for referral and level of urgency
+    Be able to write a discharge letter to a general practitioner giving clear advice about the ongoing management of an ear disorder
+    Recall the anatomy, physiology and function of the nose and paranasal sinuses.
+    Recall the blood supply of the nose, with regard to potential sites of epistaxis.
+    Recall the functional anatomy of the oral cavity, tonsils and adenoids, salivary glands, pharynx and larynx.
+    Recall the physiology of the voice production, swallowing and airway functions.
+    Recall the anatomy of the head and neck including lymphatics and thyroid gland
+    Communicate effectively with patients and parents about common ear conditions and their management.
+
+    Recall the functional anatomy and relevant physiology of the pinna, external canal, tympanic membrane, middle ear structures, inner ear and balance organ.
+
+B. Ear disease
+
+    Symptoms of ear disease
+        Take a full and clinically relevant history, perform a basic physical examination (see below) and form a reasonable differential diagnosis in patients presenting with:
+            painful ear (otalgia)
+            discharging ear (otorrhoea) including bleeding from the ear
+            hearing loss (unilateral and bilateral)
+            tinnitus
+            vertigo/dizziness
+            facial palsy
+        List the sites that share sensory innervation with the outer and middle ear and can therefore refer pain to the ear
+
+    Acute ear conditions
+        Ear Infections
+            Describe the typical clinical presentation and key physical findings that distinguish external ear infection (otitis externa/OE) and middle ear infection (acute otitis media/ AOM).
+            Outline the initial treatment for each of the above conditions, including pain relief
+        Foreign Body
+            Understand that removal of a painless FB in the ear canal is usually non urgent and best performed by an experienced doctor
+            Describe the immediate management of a patient with a live insect in the ear
+        Vertigo
+            List and understand the causes of vertigo and use history and physical examination to arrive at a reasonable differential diagnosis
+        Hearing Loss
+            Explain the difference between conductive and sensorineural hearing loss and provide examples of common causes of each.
+
+    Ear emergencies
+        Explain why a haematoma of the pinna should be drained as an emergency
+        Diagnose sudden sensorineural hearing loss; list the possible causes and outline the early management of this condition
+        Describe the clinical features that would cause you to suspect a diagnosis of acute mastoiditis and outline the initial management of this condition
+        Explain the importance of excluding a central cause of acute vertigo and describe features on history and examination that would cause you to suspect a central cause
+
+    Paediatric ear disease
+        Outline your understanding of how anatomical, physiological and immunological differences lead to different patterns of ear disease in adults and children
+        Describe the symptoms, signs and otoscopic findings that would guide you in distinguishing between acute otitis media, middle ear effusion, glue ear, chronic suppurative otitis media, retracted tympanic membrane, and outline the management of each condition
+        Describe the potential complications of acute otitis media and of chronic suppurative otitis media
+        Describe the considerations in the management of Otitis Media with Effusion (Glue ear)
+        Describe the purpose and care of grommets (tympanostomy tubes) and the management of infected grommets
+        Understand the importance of the safe use of ear drops in the presence of a non-intact ear drum
+        Understand the pathogenesis, presentation and diagnosis of cholesteatoma (congenital and acquired) and the importance of early referral
+        Discuss the importance of early detection of hearing loss in children
+
+    Hearing loss in adults
+        List and understand the causes of hearing loss and integrate history and physical examination to arrive at a reasonable differential diagnosis
+        Explain the importance of further investigation and referral for asymmetric hearing loss
+        Understand the pathogenesis, presentation and diagnosis of cholesteatoma and the importance of early referral
+
+    Procedural skills
+        Syringe an ear safely when clinically indicated
+        Describe the safe management of impacted ear wax
+        Insert an ear wick when clinically indicated
+        Perform Weber and Rinne tuning fork tests to differentiate between conductive and sensorineural hearing loss
+        Correctly use a pneumatic otoscope
+        Outline the principles involved in removing a foreign body from the ear canal
+
+    Investigations
+        Take an ear swab for culture and sensitivity and interpret the results
+        Interpret the basic features of an audiogram a
+        Perform tympanometry and interpret the findings
+
+    Examination of the ear
+        Perform a competent examination of the external and middle ear
+        Use an otoscope to identify the clinical appearance of:
+            normal structures,
+            wax
+            common pathological conditions including exostoses, otitis externa, middle ear effusion, acute otitis media, tympanic membrane perforation and foreign body
+        Use a pneumatic otoscope to assess the mobility of the eardrum under positive pressure
+        Use a 512 Hz tuning fork to differentiate between conductive and sensorineural hearing loss
+
+C. Disease of the nose and paranasal sinuses
+
+    Symptoms of disease of the nose and paranasal sinuses
+        Take a full and clinically relevant history, including risk factors, paying particular attention to each of the following presenting symptoms:
+            obstruction (bilateral and unilateral)
+            rhinorrhoea/ discharge
+            post-nasal drip
+            facial pain/ pressure/ congestion/ frontal headache
+            anosmia/ hyposmia (reduced sense of smell)
+        Form a reasonable differential diagnosis for patients presenting with any of the symptoms listed above from history and physical examination
+
+    Examination of the nose
+        Perform a basic nasal examination using a torch or headlight and a nasal speculum
+        Identify the clinical appearance of normal structures including the septum and turbinates, as well as common pathological conditions including septal deviation, allergic inferior turbinates and nasal polyps
+
+    Emergencies
+        Epistaxis
+            Perform an initial rapid assessment of estimated blood loss and severity of epistaxis.
+            Initiate fluid resuscitation and immediate measures to control bleeding where necessary.
+            Undertake a thorough history and clinical examination, paying particular attention to previous history, medications, hypertension, systemic conditions and suspicious features to determine an underlying diagnosis.
+            Perform basic measures to control bleeding (nasal packing)
+        Fractured nose
+            Clinically assess a patient with a facial injury to distinguish between a simple fractured nose and a fractured nose associated with more complex facial injuries
+            Look for and identify a septal haematoma and describe the consequences of failure to diagnose
+            State the window period (exact number of days) post-injury that a closed-reduction procedure can be performed and describe the consequences of missing the window period
+        Foreign body
+            Outline the management of a patient presenting with a nasal foreign body
+            Recognise that certain foreign bodies (eg watch batteries) require immediate removal and describe the consequences of delayed removal
+            Recognise the symptoms and signs in a child that suggest a diagnosis of an unrecognised chronic nasal foreign body
+
+    Common or important conditions
+        Allergic Rhinitis
+            Outline the epidemiology, diagnostic tests and principles of management of allergic rhinitis.
+        Chronic Rhinosinusitis with/ without polyps
+            Outline the epidemiology, significance in terms of societal burden, diagnosis and principles of management of chronic rhinosinusitis and nasal polyps
+        Septal deviation
+            Describe the symptoms of clinically significant septal deviation and turbinate hypertrophy and outline the management of these conditions
+
+    Sinister pathology
+        Apply this knowledge to differentiating benign nasal pathology from suspicious pathology
+        Understand the significance of unilateral symptoms, risk factors and atypical presentations
+
+    Investigations
+
+    Describe the role of imaging, including CT scan, in the diagnosis and management of nose and sinus disorders.
+
+    Procedural skills
+        Apply topical anaesthetic and vasoconstrictor spray to the nose
+        Apply an anterior pack for epistaxis. (Advanced - Apply a posterior pack/ Dual-chamber balloon pack, perform cauterisation using silver nitrate)
+        Pass a nasogastric tube
+
+D. Throat, head and neck
+
+    Symptoms
+
+    Take a full and clinically relevant history, including risk factors; perform a basic physical examination (see below); and form a reasonable differential diagnosis in patients presenting with:
+        persistent mouth ulcers,
+        sore throat,
+        airway distress,
+        globus/sensation of foreign body,
+        dysphagia,
+        odynophagia,
+        hoarseness,
+        neck lump
+
+    Examination of the throat, head and neck
+        Examine the oral cavity and tonsils, using a torch or headlight and tongue depressor or gauze, to identify the clinical appearance of normal structures and common or important pathological conditions including non-healing oral lesions, tonsillitis and quinsy
+        Examine the neck and be familiar with the normal clinical appearance and palpation of normal structures and with common pathological conditions including enlarged lymph nodes and enlarged thyroid gland
+
+    Acute conditions
+        Tonsillitis/Quinsy
+            Differentiate between tonsillitis and quinsy and manage appropriately.
+        Dysphonia/Hoarseness
+            Take an appropriate history and examine a patient presenting with persisting hoarseness and explain the importance of specialist referral for hoarseness persisting for greater than 4 weeks
+
+    Emergencies
+        Management
+            Recognise that the management of life-threatening emergencies includes awareness of the limitations of your inexperience and the rapid mobilising of experienced staff.
+        Acute Upper Airway Obstruction
+            Describe the clinical features that would help you to differentiate between upper and lower airway obstruction
+            Recognise the importance of early identification of patients with acute upper airway obstruction and of management that is appropriate to the most likely causes
+            Anticipate and prepare for airway insertion before complete obstruction occurs
+        Acute dysphagia
+            Take an appropriate and history and perform an examination on a patient presenting with acute dysphagia and discuss initial investigations and management
+        Foreign body
+            Assess and manage patients presenting with fish/chicken bones lodged in the throat
+        Post-tonsillectomy bleed
+            Assess and initially manage patients presenting with post-tonsillectomy bleeding
+            Outline the principles of resuscitation and airway management in this clinical scenario
+
+    Common or important conditions
+        Neck Lump
+            Take an appropriate history and perform a physical examination on a patient presenting with a neck lump
+            Describe the clinical approach to the safe assessment, investigation and management of a patient presenting with a neck lump, drawing on your knowledge of the relevant anatomy..
+        Head and Neck Cancer
+            Take an appropriate history and perform an examination in a patient presenting with a head and neck cancer in relation to risk factors and extent of spread
+            Outline the initial investigations and the broad management of patients with head and neck cancer including the need for multidisciplinary care
+        Sleep Disordered Breathing
+            Take an appropriate history and perform an examination in a patient presenting with sleep disordered breathing (from snoring to obstructive sleep apnoea)
+            Understand the important health consequences of obstructive sleep apnoea and broadly discuss management options
+        Laryngopharyngeal Reflux (LPR)
+            Outline the clinical presentation, diagnosis and principles of management of laryngopharyngeal reflux
+
+    Investigations
+
+    Identify the key anatomical features on a normal lateral airway Xray
+
+    Procedural skills
+
+    Remove an easily accessible fish bone from the throat.

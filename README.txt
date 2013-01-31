@@ -16,8 +16,7 @@ Anki is the spaced repetition software that beats the answers
 to these cards into one's brain. 
 It can be found here: http://ankisrs.net/anki2.html
 
-I'll add the core curriculum docs in here soon.
-It would be nice to have each one arranged as a checklist.
+I've added the curriculum docs as plain text files for ease of editing.
 
 
 31/1/13 -- agd 

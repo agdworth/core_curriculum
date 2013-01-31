@@ -1,0 +1,181 @@
+Discipline - Renal Medicine
+
+A. Background knowledge
+
+B. Clinical diagnosis
+
+C. Common and/or important conditions
+
+D. Drugs and therapies
+
+E. Emergencies
+
+F. Investigations
+A. Background knowledge
+
+    Explain the physiological mechanisms by which the kidney regulates:
+    (a) salt and water balance
+    (b) acid – base balance
+    (c) electrolyte balance – potassium, calcium and phosphate
+    (d) blood pressure – including the role of the renin-angiotensin-aldosterone system (RAAS)
+
+    Describe:
+    (a) the effects of hormones produced by the kidney - Vitamin D, erythropoietin, renin
+    (b) the effects of extrarenally produced hormones on the kidney – aldosterone, anti-diuretic hormone (vasopressin)
+
+    Outline the principles of measuring:
+    (a) renal clearance
+    (b) renal blood flow
+    (c) glomerular filtration rate (GFR) including estimates from creatinine clearance and empirical formulae
+
+    Describe the normal anatomy of the kidneys and lower urinary tract
+
+    Describe the structure and function of the nephron
+
+B. Clinical diagnosis
+
+    Describe features on history, examination and investigation that suggest that a patient has acute rather than chronic kidney disease
+
+    Obtain a history from a patient to elicit the symptoms of acute upper and lower urinary tract infections
+
+    Perform an examination to assess fluid status
+
+    Measure blood pressure using a sphygmomanometer and interpret the Korotkoff sounds
+
+    Perform an examination on a patient with hypertension, evaluating end organ damage and possible secondary causes of hypertension
+
+    Practice balloting the kidney and recognise techniques that allow an enlarged kidney to be differentiated from the spleen
+
+    Recognise the clinical and biochemical features of metabolic and respiratory acid-base disturbances
+
+    Diagnose metabolic acidosis and initiate investigations for common causes
+
+    Obtain a full renal history with an emphasis on renal risk factors and cardiovascular risk
+
+    Obtain a history from a patient in regard to chronic kidney disease, including the course of their disease, requirements for dialysis and transplantation
+
+    Formulate a reasonable provisional and differential diagnosis and initiate appropriate investigation of individual patients presenting with:
+        microscopic haematuria
+        macroscopic haematuria
+        isolated proteinuria
+        elevated plasma creatinine
+        nephrotic syndrome
+        nephritic syndrome
+        acute kidney injury
+        chronic kidney disease
+        end stage kidney disease
+        loin pain
+        dysuria, frequency, urgency
+        polyuria, oliguria, anuria
+        oedema
+        electrolyte abnormalities (hyponatraemia, hypernatraemia, hypokalaemia, hyperkalaemia)
+
+C. Common and/or important conditions
+
+    Acute Kidney Injury (AKI) - previously known as Acute Renal Failure
+    (a) Provide examples of the common causes of Acute Kidney Injury (AKI)
+    (b) Outline the management of the consequences of AKI:
+    i. fluid overload
+    ii. electrolyte abnormalities
+    iii. acid-base disturbances
+    (c) Discuss the urine, blood and imaging investigations required to diagnose and manage AKI
+
+    Chronic Kidney Disease (CKD) – previously known as Chronic Renal Failure
+    (a) Outline the staging of CKD (Stages 1 to 5) according to Glomerular Filtration Rate
+    (b) Provide examples of the common causes of CKD in the Australian population
+    (c) Outline the epidemiology of CKD in Indigenous Australians and the impact this has on clinical presentation
+    (d) List the conditions that are associated with an increased risk of developing CKD and describe how these risks can be modified
+    (e) Outline the principles of slowing the progression of CKD to End Stage Kidney Disease (ESKD) with reference to the control of diabetes, blood pressure and proteinuria, and including the role of drugs that interfere with the RAAS
+    (f) Identify and manage common clinical complications of CKD, such as fluid overload, hypertension, anaemia
+    (g) Outline the management of the following biochemical consequences of CKD:
+    i. hyperkalaemia
+    ii. hyperphosphataemia
+    iii. metabolic acidosis
+    (h) Describe how CKD affects the production of the following hormones, and how you would manage these disturbances:
+    i. erythropoetin
+    ii. 1,25 dihydroxy vitamin D
+    iii. parathyroid hormone
+
+    End-stage Kidney Disease (ESKD) - previously known as Endstage Renal Failure
+    (a) List the common causes of ESKD in Australia
+    (b) Explain the indications for dialysis therapy
+    (c) Outline the principles of preparation for ESKD treatment, including access for peritoneal or haemodialysis, and investigation for suitability for kidney transplantation (including kidney donation by a living relative)
+    (d) Explain the principles of peritoneal dialysis and haemodialysis to a patient and where they can be performed
+    (e) Discuss the limitations of dialysis therapy in replacing the functions of the normal kidney and describe the additional therapies that are often required
+    (f) Describe to a patient the principles of immunosuppression and its complications following kidney transplantation
+    (g) Compare the outcomes of dialysis therapy and kidney transplantation with regard to quality of life and survival
+    (h) Discuss the issue of opting for conservative (non-dialytic) treatment, particularly in elderly patients with significant comorbidities
+    (i) Recognise the importance of advance directive discussion and treatment planning in patients with chronic and end stage kidney disease
+
+    Glomerulonephritis
+    (a) Recall the structure and function of the glomerulus
+    (b) Describe the major clinical syndromes of glomerular disease (nephrotic syndrome, nephritic syndrome, asymptomatic urinary abnormalities, rapidly progressive glomerulonephritis and chronic glomerulonephritis) and be able to list common causes of each
+    (c) Outline the general approach to investigating suspected glomerulonephritis
+    (d) Outline the principles of “non-specific” treatment of glomerulonephritis
+    (e) Describe the importance of hypertension and proteinuria as causes of progressive renal failure
+    (f) Outline the prognosis of the main types of glomerulonephritis, and how to monitor their progression
+
+    Inherited Kidney Disease
+    (a) Describe the renal and extra-renal manifestations of Autosomal Dominant Polycystic Kidney Disease (ADPKD)
+    (b) Outline the clinical course, diagnosis and management of ADPKD, including cerebral aneurysm
+    (c) Outline the issues surrounding genetic testing and screening of the children of patients with ADPKD
+
+    Hypertension
+    (a) State the criteria for making a diagnosis of hypertension
+    (b) Describe the relationship between blood pressure, cardiac output and peripheral resistance
+    (c) Discuss in general terms the mechanisms whereby abnormalities of the kidney or its blood supply can lead to hypertension
+    (d) Classify hypertension according to:
+    i. causes: essential; secondary (renal, endocrine, pregnancy-related)
+    ii. severity: benign, accelerated, malignant
+    (e) Describe how you would investigate a patient with (a) newly diagnosed hypertension, (b) early onset hypertension and (c) resistant hypertension.
+    (f) Describe
+    i. the pathology of end organ damage due to untreated hypertension in small blood vessels, kidneys, heart, brain and retina
+    ii. how to investigate for evidence of end organ damage
+    iii. how to monitor the effect of treatment
+    (g) Describe the non-pharmacological management of hypertension
+    (h) Outline the principles of the pharmacological management of hypertension, including when to initiate, the main classes of drugs (including their side effects and reasons for favouring or avoiding particular classes) and combination therapy.
+    (i) Outline the principles of management of secondary hypertension, including that due to renal parenchymal disease, renal artery stenosis and endocrine diseases. (For pregnancy-induced hypertension refer to the Perinatal and Women’s Health curriculum).
+
+D. Drugs and therapies
+
+    Describe in principle the effects of decreased renal function on drug excretion
+
+    Exhibit a working knowledge of the drugs commonly prescribed in the hospital environment that are renally excreted and how dosage adjustments are made in that situation, with particular reference to digoxin, gentamicin, vancomycin and enoxaparin
+
+    Discuss the general mechanisms whereby drugs can affect kidney function
+
+    Cite common drugs that are likely to induce acute kidney injury
+
+E. Emergencies
+
+    Recognise the clinical features of fluid overload and dehydration and discuss management of both presentations
+
+    Recognise the clinical features of an emergency presentation of rapidly progressive glomerulonephritis and explain the role of early aggressive treatment in this clinical scenario
+
+    Discuss the indications for dialysis in acute kidney injury
+
+    Recognise the dangerous consequences and describe the immediate treatment of a patient with acute electrolyte disturbances, in particular hyperkalaemia and hypokalaemia
+
+    Describe the immediate treatment of a patient with a hypertensive crisis
+
+F. Investigations
+
+    Explain the procedure of renal biopsy to a patient, including the potential risks
+
+    Perform and interpret urinalysis
+
+    Interpret the results of urine microscopy, urine protein/creatinine ratio and 24 hour urine protein quantification
+
+    Interpret the results of a mid stream urine culture
+
+    Discuss the rationale and limitations behind the use of different measures of renal function:
+    (a) plasma creatinine
+    (b) plasma urea
+    (c) estimated GFR using MDRD and Cockcroft-Gault formulae
+    (d) urinary creatinine clearance
+
+    Discuss the changes seen on renal imaging in obstructive renal disease and chronic kidney disease
+
+    Describe the potential side effects of gadolinium and intravenous contrast in patients with kidney disease
+
+    Discuss the indications and contraindications of renal biopsy

@@ -1,0 +1,107 @@
+Discipline - Respiratory Medicine
+
+A. Background knowledge
+
+B. Clinical diagnosis
+
+C. Emergencies
+
+D. Investigations
+
+E. Management
+
+F. Procedural skills
+A. Background knowledge
+
+    Recall the anatomy and physiology of the normally functioning respiratory system and apply this knowledge to your understanding of the pathophysiology, signs, symptoms and management of respiratory diseases across the age spectrum.
+
+    Recognise the impact of patients’ perceptions, beliefs and behaviours on:
+        their interpretation and understanding of breathlessness, exercise limitation, chronic lung diseases, fear of cancer, and communicable diseases
+        their acceptance of and adherence to treatment
+
+B. Clinical diagnosis
+
+    Primary Learning Goals
+        Obtain a full respiratory history and perform an examination with appropriate emphasis on an assessment of impairment in terms of limitations to exertion, exercise and daily activities
+        Categorise the causes of breathlessness/chest pain/cough/haemoptysis and arrive at a reasonable differential diagnosis in the individual patient
+        In the assessment of acute respiratory distress:
+            explain the prognostic importance of pulse rate, respiratory rate, blood pressure, temperature and mental state
+            recognise the importance of resuscitation and concurrent diagnostic assessment for the underlying cause
+            recognise the importance of hypoxaemia and of oximetry monitoring of saturation
+            recognise the importance of assessing the severity of breathlessness
+            know when and how to measure airflow limitation
+            understand the psychological contributors to respiratory distress and recognise functional aspects of breathing difficulty
+            distinguish between upper airway obstruction and lower airway obstruction
+        Explore a past smoking and work history to detect exposure to lung toxins
+        Outline the different presentations of respiratory disorders in children, in particular the common and important causes of cough, shortness of breath and noisy breathing, especially wheeze and stridor
+        Describe the main clinical features of obstructive and restrictive lung disease
+        Describe the role of upper airway physiology in obstructive sleep apnoea
+        Outline the main clinical features of chronic respiratory failure
+        Formulate an age appropriate differential diagnosis of a focal abnormality on a chest X-ray
+        Differentiate between approaches to the diagnosis and treatment of pneumonia in the community and in hospital settings, in previously healthy and immunocompromised patients
+        Demonstrate a practical approach to the diagnosis and management of venous thromboembolic disease and pulmonary embolism
+
+    Secondary Learning Goals
+        Understand the epidemiology of bronchiectasis, chronic obstructive pulmonary disease, lung cancer and tuberculosis in indigenous Australians and refugees, and the impact this has on clinical presentation
+        Outline an approach to the diagnosis of chronic pulmonary infections (tuberculosis, bronchiectasis, cystic fibrosis)
+        Describe the pulmonary complications of HIV infection
+        Describe the pulmonary complications which can occur in the immunocompromised patient
+        Outline the public health aspects of smoking (active and passive), including the impact of smoking on Indigenous communities
+        Describe the clinical scenario (including symptoms, signs, time course and patient demographics) that would cause you to suspect a diagnosis of lung cancer
+        Describe the clinical scenarios in which pneumothorax can occur and explain the need to obtain an urgent chest X-ray
+
+    Note: The division into Primary and Secondary learning goals is to help students understand the relative importance of these areas in respiratory and sleep medicine and to allocate appropriate time to these topics
+
+C. Emergencies
+
+    Primary Learning Goals
+        Describe the steps for the immediate relief of breathlessness and hypoxia in patients presenting with airways obstruction due to asthma or COPD
+        Describe the steps for the immediate management of patients with acute on chronic respiratory failure
+        Outline the principles of the immediate management of pulmonary thromboembolism
+        Outline the principles of the immediate management of croup in young children
+
+    Secondary Learning Goals
+        Outline the principles of the immediate management of pneumothorax with clinical compromise
+        Outline the principles of management of acute upper airway obstruction in children
+
+D. Investigations
+
+    Interpret spirometry, and basic laboratory lung function tests, and explain their role in the diagnosis and management of obstructive and restrictive lung diseases
+
+    Interpret arterial blood gas measurements and pulse oximetry
+
+    Explain the limitations of pulse oximetry
+
+    Interpret major abnormalities on a chest X- ray
+
+    Outline the diagnostic role of CT scanning, bronchoscopy, fine needle aspiration biopsy, pleural tap and thoracoscopic biopsy, sleep investigations and nuclear imaging
+
+E. Management
+
+    Understand the influence of effective doctor-patient communication on patients’ adherence to preventative treatment in the management of chronic respiratory diseases
+
+    Explain the rationale for and communicate to the patient, the application of a management plan in the treatment of asthma, including correct inhaler techniques and on-going patient education
+
+    Communicate to the patient the principles of COPD management, including correct inhaler techniques, pulmonary rehabilitation and the role of domiciliary oxygen therapy and ensure that patients understand their importance in maintaining quality of life and preventing hospitalisation
+
+    Outline and initiate appropriate treatment for community acquired pneumonia
+
+    Outline and initiate appropriate management for viral bronchiolitis in infancy
+
+    Outline and initiate appropriate treatment for acute pulmonary embolism
+
+    Outline the staging and management principles of lung cancer
+
+    Explain the benefits of smoking cessation to patient and the modes of achieving this
+
+    Recognise the importance of advance directive discussion and treatment planning in patients with severe chronic lung disease
+
+    Describe the role of allied health professionals in the management of patients with respiratory disorders
+
+F. Procedural skills
+
+    Take an arterial blood gas sample
+
+    Apply and use an oximeter
+
+    Perform and interpret spirometry and peak flow meter testing

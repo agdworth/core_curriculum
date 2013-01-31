@@ -1,0 +1,103 @@
+Discipline - Sleep Medicine
+
+A. Background knowledge
+
+B. Clinical diagnosis
+
+C. Investigations
+
+D. Management
+
+E. Procedural skills
+A. Background knowledge
+
+    Recall the neuroanatomy and neurophysiology relevant to sleep and circadian rhythms.
+
+    Understand normal sleep structure and sleep architecture.
+
+    Recall the physiology of breathing during sleep, including the anatomy and physiology of the upper airway.
+
+    Recall the development of sleep from birth to adulthood, and the effect of aging (sleep ontogeny).
+
+    Appreciate the interdisciplinary nature of sleep biology and sleep disorders.
+
+    Understand the impact of sleep loss for the individual and for the community.
+
+    Recognise the impact of patients’ perceptions, beliefs and behaviours on:
+        their interpretation and understanding of sleep, sleep requirements, sleep behaviours and sleep disorders.
+        their acceptance of and adherence to treatment.
+
+B. Clinical diagnosis
+
+    Primary Learning Goals
+        Obtain a full sleep history.
+        Perform a clinical examination relevant to the presenting complaint.
+        Be aware of common sleep-related complaints, including hypersomnolence, insomnia, snoring, witnessed apnoeas, abnormal sleep movements and vocalisations, and symptoms suggestive of circadian rhythm disorders.
+        Be aware of the daytime consequences of sleep disorders including daytime sleepiness, impairments in neurocognitive function and quality of life, and increased risks of driving and industrial accidents.
+        Categorise the causes of sleepiness, and formulate a differential diagnosis for the individual patient.
+        Describe the presentation and clinical features of obstructive sleep apnoea and the key differences between adults and children.
+        Outline the clinical presentation and causes of insomnia.
+        Appreciate the high prevalence of restless legs syndrome and periodic limb movement disorder, and outline the clinical features and secondary causes of these disorders.
+        Demonstrate an understanding of the interactions between sleep and other chronic diseases, including chronic lung disease, chronic respiratory failure, cardiac disease, psychiatric disorders, and neurological disorders.
+        Outline the different clinical presentations of sleep disorders in children, including sleep-disordered breathing and parasomnias.
+        Demonstrate an understanding of the interactions between childhood developmental stage and presenting features of sleep disorders.
+
+    Secondary Learning Goals
+        Understand the epidemiology of snoring and obstructive sleep apnoea, insomnia, restless legs syndrome, narcolepsy, and common parasomnias.
+        Understand the spectrum of sleep-disordered breathing, including sleep-related hypoventilation syndromes and central sleep apnoea.
+        Describe the long-term sequelae of obstructive sleep apnoea, including neurocognitive and cardiovascular complications.
+        Describe the clinical scenarios that would raise the possibility of a diagnosis of obstructive sleep apnoea.
+        Discuss the range of factors which contribute to insomnia.
+        Be aware of the spectrum of parasomnias and nocturnal seizures.
+        Be aware of the spectrum of circadian rhythm disorders.
+        Be aware of sleep symptoms associated with psychiatric disorders.
+        Understand the effects of drugs (illicit and prescribed) on sleep and sleep disorders.
+        Outline the clinical features of narcolepsy.
+
+    Note: The division into Primary and Secondary learning goals is to help students understand the relative importance of these areas of sleep medicine in the primary care context, and to allocate appropriate time to these topics.
+
+C. Investigations
+
+    Interpret arterial blood gas measurements.
+
+    Administer and interpret scales of sleepiness, including the Epworth Sleepiness Scale.
+
+    Outline the role of polysomnography, ambulatory sleep studies, and objective tests of daytime sleepiness and vigilance.
+
+    Be aware of the common abnormal events that can be recorded during sleep (respiratory and non-respiratory).
+
+    Interpret overnight oximetry.
+
+    Explain the limitations of overnight pulse oximetry and ambulatory sleep studies.
+
+    Be aware of the role transcutaneous carbon dioxide monitoring during sleep.
+
+D. Management
+
+    Immediate treatment of urgent clinical scenarios
+    Primary Learning Goals
+        Discuss the approach to the management of the sleepy driver.
+        Discuss the approach to the management of the patient with acute on chronic respiratory failure.
+
+    Sleep disorders
+    Understand the influence of effective doctor-patient communication on patients’ adherence to treatment in the management of sleep disorders.
+
+    Communicate to the patient (or parent) the principles of the management of obstructive sleep apnoea, including the importance of lifestyle intervention and cardiovascular risk factor modification (e.g. weight loss, smoking cessation, alcohol reduction), continuous positive airway pressure (CPAP), and non-CPAP treatment options (e.g. oral appliances, adenotonsillectomy, other upper airway surgical procedures, treatment of nasal obstruction, positional therapy).
+
+    Be aware the clinical equipoise regarding the management of asymptomatic obstructive sleep apnoea.
+
+    Be aware of the role of non-invasive ventilation (NIV) in the management of conditions leading to both daytime and nocturnal chronic respiratory failure.
+
+    Be aware of the behavioural and pharmacological strategies to manage hypersomnolence, parasomnias and circadian disorders.
+
+    Communicate to the patient the principles of the management of insomnia, including the roles of sleep hygiene, treatment of underlying causes, cognitive-behavioural therapy and pharmacotherapy.
+
+    Communicate to the patient the principles of the management of restless legs syndrome, including the treatment of secondary causes, and the pharmacological and non-pharmacological treatment options.
+
+    Describe the role of allied health professionals in the management of patients with sleep disorders.
+
+E. Procedural skills
+
+    Take an arterial blood gas sample.
+
+    Apply and use an oximeter.

@@ -1,0 +1,219 @@
+Discipline - Haematology
+
+A. Acute conditions
+
+B. Background knowledge
+
+C. Chronic conditions
+
+D. Common and/or important conditions
+
+E. Communication
+
+F. Drugs and therapies
+
+G. Emergencies
+
+H. History taking
+
+I. Investigations
+
+J. Physical examination
+
+K. Physiology
+
+L. Transfusion medicine
+A. Acute conditions
+
+    For acute presentations of the following conditions:
+        List the key diagnostic features you would expect to obtain from history and physical examination
+        Interpret results from the automated blood cell counter, peripheral blood film and bone marrow biopsy that accompany these diseases
+        Describe the principles of management and prognosis
+            autoimmune haemolytic anaemia
+            microangiopathic haemolytic anaemia
+            paroxysmal nocturnal haemoglobinuria
+            glucose-6-phosphate dehydrogenase deficiency
+            immune thrombocytopenia purpura
+            deep vein thrombosis/ pulmonary embolism
+            disseminated intravascular coagulation
+            acute myeloid and lymphoblastic leukaemia
+            hypercalcaemia associated with multiple myeloma
+            complications of transfusion of red blood cells and other blood components including haemolytic, febrile, infectious and circulatory complications
+
+B. Background knowledge
+
+    Identify the following cells on the peripheral blood film: erythrocyte, neutrophil, eosinophil, basophil, monocyte, platelet
+
+C. Chronic conditions
+
+    For the following chronic haematological diseases:
+        list the key diagnostic features you would expect to obtain from history and physical examination
+        interpret results from the automated blood cell counter, peripheral blood film and bone marrow biopsy that accompany these diseases
+        describe the principles of management and prognosis
+            anaemia due to deficiencies of iron, vitamin B12 and folic acid
+            anaemia of chronic disease
+            thalassaemia syndromes
+            haemophilia A
+            haemophilia B
+            von Willebrands disease
+            chronic lymphocytic leukaemia
+            chronic myeloid leukaemia
+            non Hodgkins lymphoma
+            Hodgkins lymphoma
+            multiple myeloma
+            myeloproliferative disorders (polycythaemia rubra vera, myelofibrosis and essential thrombocythaemia).
+
+D. Common and/or important conditions
+
+    Describe the key features on history and physical examination that would cause you to suspect a diagnosis of:
+        anaemia and specific clinical features of iron, B12 or folate deficiencies
+        thalassaemia syndromes
+        haemolytic anaemia
+        immune thrombocytopenia purpura
+        neutropenia (autoimmune disease, primary marrow disorder, drug induced)
+        deep vein thrombosis/ pulmonary embolism
+        inherited disorders of coagulation, haemophilia A and B and von Willebrands disease
+        acute leukaemia
+        chronic leukaemia
+        non-Hodgkins and Hodgkins lymphoma
+        multiple myeloma
+        non-leukaemic myeloproliferative disorders (polycythaemia rubra vera, myelofibrosis and essential thrombocythaemia)
+        secondary and relative polycythaemia
+
+E. Communication
+
+        Provide basic genetic counselling to patients with inherited haematological disorders such as thalassaemia and haemophilia.
+        Communicate appropriately with patients who have chronic and/or life-threatening disorders
+         
+
+F. Drugs and therapies
+
+    Describe:
+        common side-effects of cytotoxic chemotherapy
+        the use of corticosteroids in autoimmune cytopenias
+        indications for the use of intravenous immunoglobulin
+        the role of specific tyrosine kinase inhibitors in chronic myeloid leukaemia
+        the role of thalidomide and bortezomib in multiple myeloma
+        the indications for and mechanism of action of commonly used anti-platelet agents
+        the indications for warfarin and low molecular weight heparin, and the monitoring of warfarin dosage
+        the role of monoclonal antibody therapies in non Hodgkins lymphoma
+        the actions of granulocyte colony stimulating factor
+        how the following drugs may induce thrombocytopenia (cytotoxic drugs, heparin, quinine/quinidine, antibiotics).
+        in broad terms the goals of research into gene therapy for haemophilia A
+        the role of desmopressin and cryoprecipitate in von Willebrand’s disease
+
+G. Emergencies
+
+    Recognise, and outline the initial management of:
+        neutropenic sepsis
+        pulmonary embolism
+        massive haemorrhage:
+        management of blood product transfusion and coagulopathy
+        haemorrhage in haemophilia A, B and in von Willebrand’s disease
+
+H. History taking
+
+    Aetiology and prevention
+
+    Take a history to elicit risk factors for:
+        inherited causes of anaemia, bleeding or thrombosis and lymphoproliferative diseases.
+        drug and chemical causes of haematological diseases.
+        nutritional causes of anaemia.
+        environmental factors predisposing to venous thromboembolism
+
+I. Investigations
+
+    Specific investigations in haematology
+        Describe the staging investigations for non-Hodgkins lymphoma, Hodgkins lymphoma and chronic lymphocytic leukaemia
+        Describe imaging investigations for deep vein thrombosis and pulmonary embolism
+
+    Laboratory haematology
+        Interpretation of the Full Blood Count
+            classify anaemia on the basis of the mean corpuscular volume and mean corpuscular haemoglobin measurement
+            list the common causes of  neutrophilia
+            list the common causes of eosinophilia
+            list the common causes of neutropenia
+            list the common causes of thrombocytosis
+            understand the concept of the normal range and how it is generated
+            identify common variability in specimen collection and transport that can affect laboratory results
+        Interpretation of Coagulation Studies
+            understand the principle of the prothrombin time
+            understand the principle of the activated thromboplastin time
+            know the effect of heparin and warfarin on clotting studies
+            know the effect of haemophilia A and B and von Willebrand's disease (VWD) on clotting studies
+            know the patterns of clotting studies (platelet count, prothrombin time, activated thromboplastin time, fibrinogen level, D-dimer/fibrin degradation products) found in patients with acquired coagulation defects
+
+J. Physical examination
+
+    Perform the following competently:
+        detect anaemia or polycythaemia by examining the nail beds, palmar creases and mucous membranes
+        differentiate bleeding and bruising due to platelet disorders from those due to coagulation factor disorders
+        detect splenomegaly
+        detect hepatomegaly
+        detect lymphadenopathy
+
+K. Physiology
+
+    Cell physiology
+        Erythrocyte
+        Describe:
+            normal red cell production and destruction
+            regulation of red cell production and the role of erythropoietin
+            structure of haemoglobin and the haemoglobin-oxygen dissociation curve
+            the major types and amounts of haemoglobin present in the embryo, foetus and adult
+        Leucocyte
+        Describe:
+            the normal function of each of the leucocyte subtypes and the physiological control of leucocyte numbers  
+            the role of granulocyte-colony stimulating factor in leucocyte production
+        Platelet and Endothelial Cell
+        Describe:
+            the role of platelets in normal clotting and the physiological control of platelet numbers
+            the role of thrombopoietin in platelet production  
+            the role of the blood vessel and the endothelial cell in haemostasis
+        Coagulation
+        Describe:
+            the cell-based model of coagulation and the intrinsic and extrinsic pathways of thrombin generation
+            the function of naturally occurring inhibitors of blood coagulation
+            the function of the fibrinolytic system
+
+    Pathophysiology
+
+    Understand the pathophysiology of:
+        iron, vitamin B12 and folate deficiencies
+        anaemia in chronic renal failure
+        anaemia of chronic inflammation and the role of hepcidin
+        venous thromboembolism (inherited and environmental predisposing factors to thrombosis)
+        vitamin K deficiency and coagulopathy of liver failure
+
+    Genetic and molecular pathophysiology of haematological diseases
+        Describe the genetic basis of the following red cell disorders:
+            thalassaemia A and thalassaemia B
+            sickle cell anaemia
+        Describe the genetic basis of the following coagulation disorders:
+            haemophilia A
+            haemophilia B
+            von Willebrands disease
+        Explain the role of the following genetic mutations in haematological malignancy:
+            t(9;22), the Philadelphia Chromosome in chronic myeloid leukaemia and acute lymphoblastic leukaemia
+            JAK2 V617F mutation in myeloproliferative diseases
+            t(8;14) in Burkitts lymphoma
+            t(14;18) in follicular lymphoma
+            t(11;14) in mantle cell lymphoma
+
+L. Transfusion medicine
+
+        Recall the ABO and rhesus blood group systems
+        Describe the principles of the following laboratory tests:
+            direct antiglobulin test
+            compatibility testing or cross-matching of blood
+            infectious screening for blood products
+        For the use of Blood Products be able to describe:
+            NH&MRC guidelines for transfusion of red blood cells
+            how to consent a patient for a blood transfusion
+            composition of fresh frozen plasma and indications for its use
+            composition of cryoprecipitate and indications for its use
+            indications for the use of factor VIIa, factor VIII and factor IX
+        Describe investigations and therapy for the following complications of blood transfusion:
+            ABO incompatible blood transfusion
+            febrile transfusion reaction
+            immediate-type hypersensitivity reaction

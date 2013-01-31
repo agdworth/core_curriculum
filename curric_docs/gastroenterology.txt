@@ -1,0 +1,228 @@
+Discipline - Gastroenterology
+
+A. Background knowledge
+
+B. Clinical diagnosis
+
+C. Common and/or important conditions
+
+D. Emergencies
+
+E. Investigations
+
+F. Interventional procedures
+
+G. Drugs and therapies
+
+H. History taking
+
+I. Physical examination
+
+J. Public health
+
+K. Communication
+A. Background knowledge
+
+    Recall the anatomy, histology, and anatomical relationships of the normal gastrointestinal tract and its associated organs.
+
+    Describe the function of each of the components of the normal gastrointestinal tract and associated organs, with specific reference to the physiological processes of digestion, absorption, motility, secretion and excretion, and including the synthetic and metabolic functions of the liver.
+
+    Describe the nerve and blood supply and lymphatic drainage of the gastrointestinal tract and associated organs
+
+B. Clinical diagnosis
+
+    Obtain a full and clinically relevant history for patients with presenting symptoms suggestive of gastrointestinal disease
+
+    Elicit on history the red flags/ risk factors/ associations for gastrointestinal malignancies, peptic ulcer disease, chronic liver disease and diseases causing malabsorption
+
+    Perform a competent abdominal examination, including rectal examination, to detect and characterise abdominal signs
+
+    Detect peripheral signs of gastrointestinal disease including the stigmata of chronic liver disease
+
+    Formulate a reasonable provisional and differential diagnosis and initiate appropriate investigation of individual patients with:
+        gastrointestinal bleeding (including positive faecal occult blood tests)
+        heartburn and regurgitation
+        dysphagia and odynophagia, including oropharyngeal causes
+        chest pain, distinguishing likely gastrointestinal pain from other causes, including cardiac, respiratory, or musculoskeletal
+        abdominal pain and dyspepsia
+        nausea and vomiting
+        altered bowel habit, including diarrhoea or constipation
+        weight loss
+        jaundice and itch
+        ascites
+        iron deficiency anaemia
+        abnormal liver function tests
+        chronic liver disease
+
+C. Common and/or important conditions
+
+        Describe the key features on history and physical examination that would cause you to suspect a diagnosis of:
+            oesophageal disorders, including:
+                gastro-oesophageal reflux and its complications
+                disorders of oesophageal motility
+                structural causes of oesophageal obstruction, such as Schatzki rings and oesophageal webs, and non-peptic strictures
+                oesophageal malignancy
+                food bolus impaction
+                eosinophilic oesophagitis
+            peptic ulcer disease
+            gastric carcinoma
+            coeliac disease
+            irritable bowel syndrome and other functional GIT disorders, including functional dyspepsia
+            malabsorption related to conditions other than coeliac disease (eg bacterial overgrowth of small intestine, cystic fibrosis)
+            inflammatory bowel disease
+            other causes of enteritis and colitis, including infection and intestinal ischaemia
+            diverticular disease of the colon
+            colorectal carcinoma
+            peri-anal conditions, including haemorrhoids and fissures
+            disorders of the pancreas, including:
+                Acute pancreatitis
+                Chronic pancreatitis
+                Pancreatic carcinoma
+            disease of the liver, including:
+                Acute hepatitis, including viral hepatitis and adverse drug reactions
+                Chronic liver disease including:
+                Alcoholic liver disease, including associated extrahepatic conditions
+                Chronic viral hepatitis
+                Non-alcoholic fatty liver disease
+                Autoimmune liver disease, including autoimmune hepatitis and primary biliary cirrhosis
+                Genetic liver diseases, including haemochromatosis, alpha-1 antitrypsin deficiency, and Wilson’s disease
+                Primary sclerosing cholangitis, including its association with inflammatory bowel disease
+                Primary biliary atresia
+                Hepatocellular carcinoma
+                Secondary tumours in the liver
+                Drug hepatotoxicity
+            disease of the gallbadder and biliary tree:
+                Cholelithiasis and choledocholithiasis
+                Cholangiocarcinoma
+            extrahepatic portal hypertension
+        Describe the pathophysiology of the above gastrointestinal conditions
+        Outline how you would investigate a patient with a provisional diagnosis of one of the above gastrointestinal conditions
+        Outline a practical approach to the management of each of the above conditions (including appropriate triage or referral)
+        Describe complications and associated disorders of the above conditions
+        Outline, where appropriate, measures for the prevention of and screening for the above conditions
+
+D. Emergencies
+
+    Gastrointestinal bleeding:
+        Describe the clinical characteristics of acute upper and lower gastrointestinal haemorrhage including variceal haemorrhage
+        Describe the steps you would take in the immediate assessment, management, and initial investigation of a patient presenting with acute gastrointestinal haemorrhage
+
+    Acute abdomen:
+        Describe the steps you would take in the immediate assessment, management, and initial investigation of a patient presenting with an acute abdomen, including presentations due to perforated abdominal viscus, bowel obstruction, acute pancreatitis, acute cholecystitis, acute cholangitis, acute diverticulitis acute appendicitis, and leaking abdominal aortic aneurysm
+
+    Acute liver failure:
+        Recognise the clinical features of acute liver failure and describe the steps you would take in the immediate assessment and management of this condition
+        Describe the steps you would take in the immediate assessment and management of a patient who has overdosed or is suspected of overdosing on paracetamol
+
+    Decompensated chronic liver disease:
+        Recognise the clinical features of hepatic decompensation and describe the common underlying causes.
+        Describe the steps that you would take in assessment and management of a patient with this condition.
+        Describe therapies available to treat hepatic decompensation and its associated features, and available preventative measures.
+
+E. Investigations
+
+    Identify on a full blood count features suggestive of possible gastrointestinal disease, such as iron deficiency anaemia, hypersplenism, and sepsis
+
+    Interpret liver function tests, recognising patterns:
+        associated with hepatitic or cholestatic processes
+        suggestive of acute versus chronic processes
+        associated with synthetic dysfunction of the liver
+
+    Request appropriate serological investigations for viral hepatitis and interpret these investigations correctly
+
+    Request and interpret investigations required to determine the aetiology of acute and chronic liver disease
+
+    Request and interpret investigations required for the assessment of malabsorption, including investigations required to establish the diagnosis of coeliac disease
+
+    Identify signs of a perforated abdominal viscus on erect chest x-ray
+
+    Identify on abdominal x-ray:
+        signs of gastric outlet obstruction
+        signs of bowel obstruction
+        signs of bowel thickening
+        signs of megacolon
+        radio-opaque gallstones
+        pancreatic calcification
+
+    Identify on abdominal CT scan:
+        the major intra-abdominal organs, including liver, spleen, pancreas, kidneys, stomach, small intestine, colon, uterus, bladder, and abdominal aorta
+        the presence of significant space occupying lesions within these organs
+        the presence of free fluid or air within the peritoneal cavity
+
+    Specific investigations
+
+    Outline the role of the following gastrointestinal investigations in the assessment of gastrointestinal disease, and list their possible complications
+        upper endoscopy
+        colonoscopy
+        endoscopic retrograde cholangiopancreatography (ERCP)
+        percutaneous transhepatic cholangiography (PTC)
+        endoscopic ultrasound
+        capsule endoscopy
+        oesophageal manometry and pH testing
+        radiographic contrast studies of the gastrointestinal tract
+        abdominal ultrasound
+        abdominal MRI and CT
+        liver biopsy
+        urea breath test
+
+F. Interventional procedures
+
+    Broadly outline the clinical scenarios in which the following interventional procedures may be performed and describe the common potential complications:
+        Abdominal paracentesis
+        Endoscopic therapy (including endoscopic injection therapy, variceal band ligation endoscopic cautery for gastrointestinal bleeding, endoscopic polypectomy, endoscopic mucosal resection, endoscopic dilatation and stenting within the gastrointestinal tract, and percutaneous insertion of gastrostomy tube)
+        Biliary dilatation, stenting, and stone extraction via ERCP or PTC
+
+G. Drugs and therapies
+
+    For the following drugs:
+        Describe the clinical conditions for which they are prescribed
+        Describe their mode of action and common adverse effects of the following drugs
+        Locate accurate prescribing information about dosage and drug interactions
+        antacids
+        H2 receptor antagonists
+        proton pump inhibitors
+        H. pylori therapy regimens
+        Laxatives
+        anti-emetics
+        anti-diarrhoeal agents
+        anti-spasmodic and motility agents
+        amino-salicylates
+        immunosuppressives (including prednisone, azathioprine, and 6-mercaptopurine)
+        interferon and antiviral agents used for treatment of viral hepatitis
+        biological agents (eg infliximab, adalimumab)
+        drugs used in the treatment of chronic cholestasis, including cholestyramine and urosdeoxycholic acid
+
+H. History taking
+
+        Elicit a basic nutritional history, including determining intake of core food groups and number of serves, and any changes in weight
+        Identify and assess intake of important food characteristics for particular conditions where dietary intake is relevant, such as taking a history of fibre intake for individuals with bowel symptoms or of iron containing foods in iron deficiency.
+
+I. Physical examination
+
+    Perform a physical examination to assess nutritional state, including weight, height, waist circumference, and signs of muscle wasting.
+
+J. Public health
+
+    Nutritional Requirements and Nutritional Influences on Human Health and Disease
+        Explain what is meant by the following terms used to describe the composition of foodstuffs:
+            energy content (calories and kilojoules)
+            macronutrients
+            micronutrients
+        Outline dietary guidelines for the general population, including the following principles:
+            food groups to encourage, with particular reference to the Australian Guide to Healthy Eating and NHMRC guidelines
+            recommendations for fats (including subtypes), carbohydrates, protein, sodium, potassium, and alcohol consumption
+            the role of diet and physical activity in weight management and health
+        Describe the role played by diet in morbidity and mortality, including an outline of the dietary factors that increase or decrease the risks of common conditions
+        Describe clinical syndromes associated with deficiencies of essential nutrients.
+        Outline specific dietary interventions required for gastrointestinal disease where appropriate, such as dietary modification in coeliac disease and management of malnutrition in chronic liver disease
+        Recognise the indications for detailed assessments of nutritional status such as anthropometry, the Subjective Global Assessment, and the Mini Nutritional Assessment in the elderly
+
+K. Communication
+
+    Explain common gastroenterological conditions, risk factors and prognosis to patients and families using non-medical language
+
+    Clearly communicate to patients the behavioural interventions that can reduce the risk of primary occurrence or of recurrence of gastrointestinal disease
+
+    Clearly communicate relevant information about screening, prevention, and diagnostic and therapeutic procedures to patients and families
+
+    Clearly communicate relevant information about a patient’s clinical condition to other health care colleagues

@@ -1,0 +1,71 @@
+Discipline - Infectious Diseases
+
+A. Clinical diagnosis
+
+B. History taking
+
+C. Investigations
+
+D. Management
+A. Clinical diagnosis
+
+    Elicit the signs and symptoms of syndromic infectious diseases problems including:
+        Skin and soft tissue infections (cellulitis, abscess)
+        Lower respiratory tract infections (bronchitis, pneumonia, empyema) 
+        Genitourinary infections (pyelonephritis, lower urinary tract infection, sexually transmissible diseases)
+        Gastrointestinal infections (infectious diarrhoea, viral hepatitis)
+        Intravascular infections (infective endocarditis, intravascular device associated, malaria) 
+        Neurological infections (meningitis, encephalitis, cerebral abscess, epidural abscess) 
+        Bone and joint infections (osteomyelitis, septic arthritis) 
+        Septic shock (meningococcaemia, undifferentiated sepsis)
+
+    Identify the key pathogens implicated in the causation of the above syndromes
+
+    Describe the specific infectious problems associated with particular hosts including:
+        diabetic foot infections (contiguous osteomyelitis, infected ulcers)
+        hospital-acquired infections (intravascular device-related, UTI, decubitus ulcers, pneumonia, surgical wound infection)
+        HIV and associated opportunistic infections  
+        febrile neutropenia (acute and chronic neutropenia)  
+        splenectomised patients (overwhelming sepsis)  
+        intravenous drug users (chronic hepatitis, bacteremia and right sided endocarditis)
+        Indigenous Australians and refugee and other migrant populations (STIs, early childhood HBV infection, tuberculosis)
+
+B. History taking
+
+    Elicit a detailed and accurate history of infection/suspected infection paying particular attention to:
+        the chronological development of symptoms (these may evolve over a few days in acute infections) 
+        epidemiological factors and public health implications
+        the potential impact on symptoms of previous antimicrobial therapies or immunizations 
+        host immune status
+         
+
+    Synthesise the clinical history and examination to develop a differential diagnosis in individual patients
+
+C. Investigations
+
+    Explain the significance of normal microflora, host-parasite relationship and differences between sterile and non-sterile site specimens
+
+    Collect specimen and interpret the results of the following tests:  
+        blood cultures (including recognising the significance of contaminated cultures)  
+        CSF, pleural and peritoneal fluid (including recognition of the significance of cell counts, protein/glucose values)  
+        urine, wound and respiratory cultures (including laboratory assessment of sample quality and interpretation of non-sterile samples)
+        aminoglycoside and glycopeptide drug levels
+
+    Understand the principles of serological tests in the diagnosis of infectious diseases, serological markers of recent and past infection and interpret the results of acute and convalescent tests including
+        HIV serology
+        Hepatitis B and C serology
+
+    Understand the principles of molecular diagnostic tests in the diagnosis and control of infectious diseases and interpretation of PCR based quantitative and qualitative tests
+
+D. Management
+
+    Demonstrate a working knowledge of the prudent use of anti-microbials:  
+        appreciate the principles of empirical and microbiology guided narrow spectrum therapy and antimicrobial prophylaxis
+        name the major antibiotic drug groups,  and provide examples of classes of antimicrobials, their targets and markers of resistance  
+        describe the spectrum of activity, basic pharmacodynamics and pharmacokinetics and the major side effects of commonly used antibiotics
+
+    Understand the empirical treatment of an infectious diseases syndrome based upon consensus guidelines (Therapeutic guidelines)
+
+    Describe infectious disease prevention and Infection Control principles (including the principles of infection transmission, patient isolation, the significance of colonisation with multi-drug resistant pathogens and the impact of staff and patient immunization policies)
+
+    Outline the principles of taking a sexual history in the context of sexually transmissible diseases 
