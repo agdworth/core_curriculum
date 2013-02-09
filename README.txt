@@ -6,6 +6,11 @@ Flashcards are text-only at this stage.
 Some curriculum areas are likely unsuited to text-only flashcards (Imaging 
 comes to mind) so these areas may be skipped.
 
+The golden rule in writing these flashcards is write the question once and 
+only once! You can edit the answers as much as you like but leave the 
+questions alone. Otherwise, when you import the cards you'll lose
+the study history on that card. 
+
 Cards are to be in comma separated value (csv) format. You'll need to save
 these in something other than Microsoft Excel, as it doesn't play nicely
 with Anki. 
